@@ -1,0 +1,604 @@
+,source,content,date,vader_score,neutral_score,positive_score,negative_score
+0,Fox News,BREAKING: Federal appeals court rules against Trump administration on DACA https://t.co/KHnrNvEKAM,2018-11-08 19:18:44,0.0,1.0,0.0,0.0
+1,Fox News,"Breaking News: Grand jury indicts captain of Missouri duck boat that sank in severe weather, killing 17 people https://t.co/ffOOgzRwdo",2018-11-08 17:02:25,-0.6124,0.615,0.115,0.269
+2,Fox News,"JUST IN: Police identify gunman who opened fire inside California bar, killing 12 https://t.co/PvITYr54AX",2018-11-08 15:14:45,-0.7783,0.638,0.0,0.362
+3,Fox News,JUST IN: Supreme Court Justice Ruth Bader Ginsburg fractures 3 ribs in fall https://t.co/9UM9hKTz4m,2018-11-08 14:22:51,0.7906,0.611,0.389,0.0
+4,Fox News,"Sgt. Ron Helus was fatally shot when he responded to the mass shooting on Nov. 7 at a bar in Thousand Oaks, Califor… https://t.co/vOH3OWPN5S",2018-11-08 13:43:25,-0.6369,0.833,0.0,0.167
+5,Fox News,Tom Homan: “It’s a tragedy each and every time.” https://t.co/dMV68Hfdz0 https://t.co/hrq51VJg7x,2018-11-08 13:35:03,-0.6597,0.672,0.0,0.328
+6,Fox News,"People walk away from the scene in Thousand Oaks, Calif. where a gunman opened fire Wednesday.… https://t.co/O3Oo2iLL8O",2018-11-08 13:22:27,-0.34,0.862,0.0,0.138
+7,Fox News,Teylor Whittler describes what she witnessed at California bar shooting https://t.co/dMV68Hfdz0 https://t.co/YznTZgQoYY,2018-11-08 12:56:20,0.0,1.0,0.0,0.0
+8,Fox News,"An FBI agent talks to a potential witness as they stand near the scene in Thousand Oaks, Calif. where a gunman open… https://t.co/7QOmXNTYM0",2018-11-08 12:37:05,0.0,1.0,0.0,0.0
+9,Fox News,Ventura County Fire Department Captain Stan Ziegler: “Hundreds of first responders responded initially to the scene… https://t.co/o4gArhmy4e,2018-11-08 12:25:14,-0.34,0.87,0.0,0.13
+10,Fox News,"People comfort each other as they stand near the scene in Thousand Oaks, Calif. where a gunman opened fire during a… https://t.co/wPI4XSpirC",2018-11-08 12:06:14,0.0258,0.795,0.105,0.1
+11,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/dMV68Hfdz0 https://t.co/WvjarPpwPV",2018-11-08 11:54:22,-0.6486,0.736,0.0,0.264
+12,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/GqI77wMuYZ",2018-11-08 11:38:17,-0.6486,0.719,0.0,0.281
+13,Fox News,"Sheriff's deputies speak to potential witnesses as they stand near the scene in Thousand Oaks, Calif., where a gunm… https://t.co/jPE8k9oQHr",2018-11-08 11:32:26,0.0,1.0,0.0,0.0
+14,Fox News,13 dead in country music bar including gunman https://t.co/PvITYr54AX https://t.co/UURBIatqte,2018-11-08 11:26:46,-0.6486,0.677,0.0,0.323
+15,Fox News,"12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/PvITYr54AX https://t.co/o8Nf8WuJcZ",2018-11-08 11:18:08,-0.6486,0.719,0.0,0.281
+16,Fox News,"Breaking News: At least 12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/u6sVxdzHq5",2018-11-08 11:13:32,-0.6486,0.765,0.0,0.235
+17,Fox News,.@CarleyShimkus is live with the ‘Fox News Update’ on Facebook Watch: https://t.co/hNrB8xzepH https://t.co/cQ9uxkjUIK,2018-11-08 11:12:14,0.0,1.0,0.0,0.0
+18,Fox News,"Authorities deliver an update on the shooting in Thousand Oaks, California. (Courtesy: KABC) https://t.co/BtGxxIfNx5",2018-11-08 10:53:33,0.0,1.0,0.0,0.0
+19,Fox News,Pastor Dimas Salaberrios on California shooting: “My immediate thoughts go out to the families. Because what’s happ… https://t.co/iowf5VOL2l,2018-11-08 10:36:12,0.0,1.0,0.0,0.0
+20,CNN,"The Bank of England has blocked Nicolas Maduro's officials from withdrawing $1.2 billion worth of gold, Bloomberg r… https://t.co/bgxCWX20Bk",2019-01-26 18:45:06,-0.0516,0.81,0.09,0.1
+21,CNN,"“It’s time for every other nation to pick a side,” Sec. of State Pompeo said at the United Nations, urging more cou… https://t.co/7ASH4mW5n2",2019-01-26 18:30:00,0.4215,0.882,0.118,0.0
+22,CNN,A Commerce Dept. employee says she had to borrow money to pay her mortgage during the shutdown and is unsure about… https://t.co/44XDwmV3O1,2019-01-26 18:15:00,-0.34,0.848,0.0,0.152
+23,CNN,"At least 9 people have died and more than 300 people are missing after a dam burst at a Brazilian iron mine, causin… https://t.co/N4LECURYp4",2019-01-26 18:00:09,-0.7003,0.766,0.0,0.234
+24,CNN,Maryland Gov. Larry Hogan's name has come up repeatedly — and unprompted — in discussions with Republican National… https://t.co/hvMcjQsDhe,2019-01-26 17:45:03,0.0,1.0,0.0,0.0
+25,CNN,"Officials have started removing hundreds of crocodiles from the site of the world's largest statue in India, prompt… https://t.co/pQN7HbhQG7",2019-01-26 17:30:11,0.0,1.0,0.0,0.0
+26,CNN,"“I think it was the right call,” Rep. Adam Kinzinger says after President Trump signed a three-week stopgap bill th… https://t.co/9Ijo2JVGTA",2019-01-26 17:15:00,0.0,1.0,0.0,0.0
+27,CNN,"First lady Melania Trump gets ""substantial damages"" and an apology for story in British magazine that included seve… https://t.co/MKFHZX0XJ3",2019-01-26 17:00:09,-0.2263,0.731,0.137,0.132
+28,CNN,Trump tries to bounce back after horrible day damages presidency https://t.co/MiifpoPPef | Analysis by Stephen Coll… https://t.co/k8alZHztM6,2019-01-26 16:45:04,-0.7506,0.686,0.0,0.314
+29,CNN,Former Nigerian minister Ngozi Okonjo-Iweala has given the strongest indication yet that she will throw her hat in… https://t.co/VL3KR3jDCy,2019-01-26 16:30:04,0.4404,0.861,0.139,0.0
+30,CNN,How Brexit paralyzed British politics https://t.co/qZZf7vZNgg Analysis by @LukeMcGee https://t.co/Kn9mVQQWDe,2019-01-26 16:15:07,0.0,1.0,0.0,0.0
+31,CNN,Nigerian election thrown into chaos as President Muhammadu Buhari suspends country's top judge… https://t.co/l0EJCTROj5,2019-01-26 16:00:15,-0.4404,0.686,0.103,0.211
+32,CNN,"Courts say anti-abortion ""heartbeat bills"" are unconstitutional. So why do they keep coming? https://t.co/K8Kshg1QvQ https://t.co/wjOfo48QPC",2019-01-26 15:45:08,0.0,1.0,0.0,0.0
+33,CNN,The numbers show Trump lost the shutdown and Pelosi won https://t.co/K6bAdB4G03 | Analysis by Harry Enten https://t.co/b17P4r6LTe,2019-01-26 15:30:08,0.34,0.7,0.185,0.115
+34,CNN,Three men have been sentenced to at least 25 years in federal prison for attempting to blow up an apartment complex… https://t.co/5zQxtEKsNt,2019-01-26 15:22:54,-0.5267,0.82,0.0,0.18
+35,CNN,Are you clearing your house in hopes of throwing out everything that doesn’t “spark joy” after watching Marie Kondo… https://t.co/LnoU044qGu,2019-01-26 15:21:22,0.4215,0.872,0.128,0.0
+36,CNN,"Should young Americans be required to perform public service?
+
+Janine Davidson of the National Commission on Milita… https://t.co/E5DpXMHtLT",2019-01-26 15:07:17,0.0,1.0,0.0,0.0
+37,CNN,"Federal response was faster and ""more generous"" in terms of funding and staffing for Hurricane Irma in Florida and… https://t.co/Tqq2yxiVR5",2019-01-26 15:01:08,0.5563,0.841,0.159,0.0
+38,CNN,This millionaire who conducted focus groups in battleground states says the most important thing to voters is their… https://t.co/MlhoSOOOkq,2019-01-26 14:50:27,-0.1548,0.78,0.096,0.124
+39,CNN,"Microsoft CEO Satya Nadella says self-regulation is needed for new technology to avoid ""even more heavy-handed regu… https://t.co/d5zWBAmpOd",2019-01-26 14:31:00,-0.296,0.885,0.0,0.115
+40,BBC News (World),Taliban talks: US envoy says significant progress made in Qatar https://t.co/D6g1Xxz47b,2019-01-26 18:14:59,0.5574,0.662,0.338,0.0
+41,BBC News (World),Nigerian chief justice ban raises international concerns https://t.co/SHiDqShQYd,2019-01-26 16:57:27,-0.0516,0.462,0.262,0.277
+42,BBC News (World),Trump insists Mexico wall will be built despite deal to end shutdown https://t.co/DFz3GQAZ1H,2019-01-26 16:53:05,0.0,1.0,0.0,0.0
+43,BBC News (World),Venezuela crisis: Maduro given ultimatum by European leaders https://t.co/FxESFaA1kg,2019-01-26 15:06:40,-0.6249,0.661,0.0,0.339
+44,BBC News (World),US shutdown: National press see a defeat for Donald Trump https://t.co/eNXRFjX4p1,2019-01-26 13:43:46,-0.4588,0.75,0.0,0.25
+45,BBC News (World),"'Little hope' of finding missing after Brazil dam collapse
+
+[Tap to expand]
+
+https://t.co/psUuP8EsmP https://t.co/BbYhYNHmJw",2019-01-26 13:04:08,-0.4201,0.579,0.137,0.284
+46,BBC News (World),"RT @BBCNews: Following illegal migrants through four European ports
+
+[Tap to expand]
+
+https://t.co/ozr4zC6K3i https://t.co/ilcmCO335E",2019-01-26 12:37:08,-0.5574,0.783,0.0,0.217
+47,BBC News (World),"Kim Porter, mother to three of Diddy's children, died from pneumonia https://t.co/dVnT5QfXmw",2019-01-26 11:47:15,-0.5574,0.753,0.0,0.247
+48,BBC News (World),"RT @BBCSport: CHAMPION!
+
+Naomi Osaka wins the Australian Open women's singles title for the first time with a dramatic victory over Petra K…",2019-01-26 11:14:02,0.8633,0.699,0.301,0.0
+49,BBC News (World),"RT @BBCSport: What a comeback!
+
+Petra Kvitova saves three Championship points and takes us to a deciding set against Naomi Osaka.
+
+Live 📻📱💻…",2019-01-26 10:35:11,0.4926,0.862,0.138,0.0
+50,BBC News (World),"RT @bbctennis: Petra Kvitova has dropped a set for the first time in this tournament.
+
+Can she recover and take us to a decider?
+
+🇯🇵 Osaka…",2019-01-26 09:44:47,0.0,1.0,0.0,0.0
+51,BBC News (World),"RT @bbctennis: Petra Kvitova holds off a threat of a break from Naomi Osaka.
+
+It's tie-break time in the first set.
+
+🇯🇵 Osaka 6-6 🇨🇿 Kvitov…",2019-01-26 09:35:45,-0.5267,0.871,0.0,0.129
+52,BBC News (World),"Hundreds missing after Brazil dam collapse
+
+https://t.co/EGQRS7ViUB https://t.co/TiRDGjzVZs",2019-01-26 09:27:53,-0.6597,0.526,0.0,0.474
+53,BBC News (World),Australia Day celebrated amid 'Invasion Day' protests https://t.co/PmpPDeL8fa,2019-01-26 09:17:39,0.4215,0.517,0.319,0.164
+54,BBC News (World),"RT @BBCSport: We are under way in Melbourne!
+
+Follow live radio and online coverage of Naomi Osaka v Petra Kvitova in the women's singles f…",2019-01-26 08:49:12,0.0,1.0,0.0,0.0
+55,BBC News (World),Oscar-winning French composer Michel Legrand dies aged 86 https://t.co/iYzi3SB7hu,2019-01-26 08:07:20,-0.3818,0.755,0.0,0.245
+56,BBC News (World),Spain Totalán search: Body of missing boy found https://t.co/dc2BUj7aXO,2019-01-26 02:27:45,-0.296,0.784,0.0,0.216
+57,BBC News (World),India relocates crocodiles at world's tallest statue in Gujarat https://t.co/LpbJ81EKet,2019-01-26 02:07:17,0.0,1.0,0.0,0.0
+58,BBC News (World),Vienna rescues forgotten women artists censored by the Nazis https://t.co/NAL4DQddWF,2019-01-26 00:05:44,-0.0516,0.547,0.18,0.273
+59,BBC News (World),BBC journalist Ging Ginanjar: A giant of Indonesia's battle for press freedom https://t.co/3bGvZ7MHNG,2019-01-26 00:03:27,0.3818,0.595,0.25,0.155
+60,CBS News,This man was in a prison's maximum-security wing when he was 21. Now he's the mayor of his hometown.… https://t.co/77jmL3q2Um,2019-01-26 18:30:15,0.0,1.0,0.0,0.0
+61,CBS News,"The restaurant at the center of the ""Pizzagate"" conspiracy theory survived an attempted arson… https://t.co/gtdy8VSuDX",2019-01-26 18:09:37,-0.0258,0.66,0.168,0.173
+62,CBS News,"Roger Stone is a self-proclaimed ""dirty trickster"" of Republican politics. After Mueller indictment, have the trick… https://t.co/ZV6KxzuMHE",2019-01-26 17:49:34,-0.5859,0.745,0.0,0.255
+63,CBS News,Chef José Andrés pledges to keep helping federal workers even after shutdown ends https://t.co/HTELpHLz87 https://t.co/DgwjlkZsBM,2019-01-26 17:29:59,0.296,0.864,0.136,0.0
+64,CBS News,Sen. Kamala Harris campaigns in South Carolina at event hosted by her sorority https://t.co/bJMjUiqeGH,2019-01-26 17:09:58,0.0,1.0,0.0,0.0
+65,CBS News,Secretary of State Mike Pompeo says United Nations Security Council should support Venezuela's opposition leader Ju… https://t.co/hsNT9AJ51r,2019-01-26 16:29:48,0.7845,0.639,0.361,0.0
+66,CBS News,Former Starbucks CEO Howard Schultz tells @60Minutes Donald Trump is not qualified to be president and both parties… https://t.co/UYhDEk30js,2019-01-26 16:09:34,0.0,1.0,0.0,0.0
+67,CBS News,Researchers say Amazon's face detection technology Rekognition shows gender and racial bias https://t.co/LOhCsyWt3Y https://t.co/iTUgEFanRX,2019-01-26 15:49:31,-0.1027,0.903,0.0,0.097
+68,CBS News,Hold onto your Canada Goose coats — they're becoming a target for armed robberies https://t.co/S16MDP5osX https://t.co/nimI9RNydZ,2019-01-26 15:29:31,0.0,1.0,0.0,0.0
+69,CBS News,"""Leaving Neverland,"" a four-hour documentary about child molestation accusations against Michael Jackson, draws sta… https://t.co/nnS5zIlq3i",2019-01-26 15:09:40,-0.6369,0.698,0.0,0.302
+70,CBS News,One Texas student was killed and another injured after a school bus collided with a train https://t.co/rMUbnGPN3q https://t.co/obFNMWvv0P,2019-01-26 14:50:00,-0.802,0.66,0.0,0.34
+71,CBS News,Naomi Osaka beats Petra Kvitova to clinch Australian Open title https://t.co/61BupvwRmF https://t.co/Qqtgfzfqt7,2019-01-26 14:30:00,0.0,1.0,0.0,0.0
+72,CBS News,"RT @CBSThisMorning: With 10 days leading up to the Super Bowl, many are hoping to ""paint the town red."" But Atlanta's been doing some paint…",2019-01-26 14:23:16,0.5187,0.841,0.159,0.0
+73,CBS News,"Extinction of lemurs would have huge implications for humans, scientists say https://t.co/Sveqw2kcqt https://t.co/pZBUOFrm7t",2019-01-26 14:03:03,0.3182,0.839,0.161,0.0
+74,CBS News,Who is Roger Stone? https://t.co/MKjI9Ms2si https://t.co/zQicmcttsl,2019-01-26 13:48:04,0.0,1.0,0.0,0.0
+75,CBS News,Rapper Nelly asks court to dismiss lawsuit alleging sexual assault https://t.co/DuW46lsTpN https://t.co/om7VFrcyKS,2019-01-26 13:33:03,-0.6908,0.637,0.0,0.363
+76,CBS News,"Model and actress Kim Porter died from pneumonia, coroner says https://t.co/6galMeRHJX https://t.co/GoGnTpNXP4",2019-01-26 13:18:03,-0.5574,0.753,0.0,0.247
+77,CBS News,Bahamiam restaurant owner defrauded by Fyre Festival will share GoFundMe donations https://t.co/cfU1otPOX8 https://t.co/muhiVjF4fY,2019-01-26 13:03:04,0.6597,0.671,0.329,0.0
+78,CBS News,"Transgender discrimination, conversion therapy banned in New York https://t.co/9PH8UeijbT https://t.co/vID7kqa2mj",2019-01-26 12:48:03,-0.4588,0.75,0.0,0.25
+79,CBS News,"Bitcoin no longer worth the mining cost, JPMorgan says https://t.co/wvMj6Y9qxq https://t.co/Are5GJB7Pv",2019-01-26 12:33:03,-0.0772,0.687,0.145,0.168
+80,The New York Times,"Enjoy art and nature in Japan's Setouchi Islands, No. 7 on our list of 52 places to go in 2019, and explore further… https://t.co/yLuHRybXBi",2019-01-26 18:45:01,0.25,0.795,0.121,0.083
+81,The New York Times,The end of the U.S. government shutdown signals the start of 3 weeks of intense negotiations over border security i… https://t.co/7wkI3h8j2u,2019-01-26 18:30:07,0.4019,0.829,0.171,0.0
+82,The New York Times,RT @karenyourish: Just published an analysis of every known contact Trump and his associates had with Russia or WikiLeaks. We found more th…,2019-01-26 18:15:05,0.0,1.0,0.0,0.0
+83,The New York Times,"In Opinion
+
+Julian Sanchez writes, ""There were also several indications that the probe may not be as near its concl… https://t.co/886UwFjOOC",2019-01-26 18:00:11,0.0,1.0,0.0,0.0
+84,The New York Times,An Al Qaeda-linked rebel group has taken control of Syria's last rebel-held pocket. That means Russia and the Syria… https://t.co/ZESqqan1nE,2019-01-26 17:45:04,-0.1531,0.922,0.0,0.078
+85,The New York Times,"""The doorbell rang. I opened the door to the three sheriff’s deputies. I managed to speak first. 'It was him, wasn’… https://t.co/pUeP1XMKDU",2019-01-26 17:30:06,0.0,1.0,0.0,0.0
+86,The New York Times,RT @nytimesarts: Giuseppe Verdi wanted to “burn these papers.” But instead a trunk of long-hidden documents will offer a glimpse into the c…,2019-01-26 17:16:04,0.0,1.0,0.0,0.0
+87,The New York Times,"A baked potato isn’t really about the potato. It’s about the toppings: plush sour cream, butter, cheese, salty baco… https://t.co/Mn6NFRuHSO",2019-01-26 17:00:05,0.0,1.0,0.0,0.0
+88,The New York Times,Rescue workers at the site of dam collapse in Brazil are searching for hundreds of missing under the mud and sludge… https://t.co/zMD3bqcRJa,2019-01-26 16:45:05,-0.2732,0.686,0.119,0.195
+89,The New York Times,"“It was like a nightmare,"" said the owner of a tea stall in Karachi, Pakistan, whose business was bulldozed. ""I saw… https://t.co/xwtasyEBCB",2019-01-26 16:31:44,0.1779,0.807,0.112,0.081
+90,The New York Times,"Although over for now, the U.S. government shutdown inflicted pain that ran deep: Missed payments and debt for fede… https://t.co/GjbgulOeta",2019-01-26 16:24:42,-0.7906,0.68,0.0,0.32
+91,The New York Times,"RT @NYTSports: “I just dropped off the face of the earth for 45 days,” the figure skater Gracie Gold said of her mental health treatment. “…",2019-01-26 16:17:48,0.0,1.0,0.0,0.0
+92,The New York Times,"Bruised by the shutdown fight, President Trump faces a cloudier path to re-election, and advisers fear a challenge… https://t.co/Lp2lwVxtKR",2019-01-26 16:00:15,-0.7003,0.721,0.0,0.279
+93,The New York Times,"A New York City public housing authority employee redecorated her kitchen with cabinets, a refrigerator and a sink… https://t.co/khzu0iYJsT",2019-01-26 15:45:07,0.0772,0.92,0.08,0.0
+94,The New York Times,"The Texas secretary of state has questioned the citizenship of 95,000 registered voters. The findings of an 11-mont… https://t.co/5t2DdQOqdm",2019-01-26 15:30:10,-0.1027,0.928,0.0,0.072
+95,The New York Times,"Your weekend playlist is here, with the songs @nytmusic critics think you need to hear
+https://t.co/TdXQwcd5xz",2019-01-26 15:15:05,-0.296,0.872,0.0,0.128
+96,The New York Times,"""There was an absolute and ironclad caste system in the film capital in the 1940s and 1950s,"" director and actor Id… https://t.co/Psy1vz1uHQ",2019-01-26 15:00:16,0.0,1.0,0.0,0.0
+97,The New York Times,"Donald Trump and his associates had more than 100 contacts with Russians and WikiLeaks before the inauguration, a T… https://t.co/5d6LqHOGyQ",2019-01-26 14:56:16,0.0,1.0,0.0,0.0
+98,The New York Times,A father-and-son hunting pair fatally shot a mother black bear and her cubs in their den on a remote island in Alas… https://t.co/YbTHLCsUBE,2019-01-26 14:45:05,-0.6369,0.819,0.0,0.181
+99,The New York Times,Two music fans begin married life after a wedding in a cemetery. The atmosphere was anything but funereal. https://t.co/7HHn8feiC0,2019-01-26 14:30:06,0.0,1.0,0.0,0.0
+100,Fox News,BREAKING: Federal appeals court rules against Trump administration on DACA https://t.co/KHnrNvEKAM,2018-11-08 19:18:44,0.0,1.0,0.0,0.0
+101,Fox News,"Breaking News: Grand jury indicts captain of Missouri duck boat that sank in severe weather, killing 17 people https://t.co/ffOOgzRwdo",2018-11-08 17:02:25,-0.6124,0.615,0.115,0.269
+102,Fox News,"JUST IN: Police identify gunman who opened fire inside California bar, killing 12 https://t.co/PvITYr54AX",2018-11-08 15:14:45,-0.7783,0.638,0.0,0.362
+103,Fox News,JUST IN: Supreme Court Justice Ruth Bader Ginsburg fractures 3 ribs in fall https://t.co/9UM9hKTz4m,2018-11-08 14:22:51,0.7906,0.611,0.389,0.0
+104,Fox News,"Sgt. Ron Helus was fatally shot when he responded to the mass shooting on Nov. 7 at a bar in Thousand Oaks, Califor… https://t.co/vOH3OWPN5S",2018-11-08 13:43:25,-0.6369,0.833,0.0,0.167
+105,Fox News,Tom Homan: “It’s a tragedy each and every time.” https://t.co/dMV68Hfdz0 https://t.co/hrq51VJg7x,2018-11-08 13:35:03,-0.6597,0.672,0.0,0.328
+106,Fox News,"People walk away from the scene in Thousand Oaks, Calif. where a gunman opened fire Wednesday.… https://t.co/O3Oo2iLL8O",2018-11-08 13:22:27,-0.34,0.862,0.0,0.138
+107,Fox News,Teylor Whittler describes what she witnessed at California bar shooting https://t.co/dMV68Hfdz0 https://t.co/YznTZgQoYY,2018-11-08 12:56:20,0.0,1.0,0.0,0.0
+108,Fox News,"An FBI agent talks to a potential witness as they stand near the scene in Thousand Oaks, Calif. where a gunman open… https://t.co/7QOmXNTYM0",2018-11-08 12:37:05,0.0,1.0,0.0,0.0
+109,Fox News,Ventura County Fire Department Captain Stan Ziegler: “Hundreds of first responders responded initially to the scene… https://t.co/o4gArhmy4e,2018-11-08 12:25:14,-0.34,0.87,0.0,0.13
+110,Fox News,"People comfort each other as they stand near the scene in Thousand Oaks, Calif. where a gunman opened fire during a… https://t.co/wPI4XSpirC",2018-11-08 12:06:14,0.0258,0.795,0.105,0.1
+111,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/dMV68Hfdz0 https://t.co/WvjarPpwPV",2018-11-08 11:54:22,-0.6486,0.736,0.0,0.264
+112,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/GqI77wMuYZ",2018-11-08 11:38:17,-0.6486,0.719,0.0,0.281
+113,Fox News,"Sheriff's deputies speak to potential witnesses as they stand near the scene in Thousand Oaks, Calif., where a gunm… https://t.co/jPE8k9oQHr",2018-11-08 11:32:26,0.0,1.0,0.0,0.0
+114,Fox News,13 dead in country music bar including gunman https://t.co/PvITYr54AX https://t.co/UURBIatqte,2018-11-08 11:26:46,-0.6486,0.677,0.0,0.323
+115,Fox News,"12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/PvITYr54AX https://t.co/o8Nf8WuJcZ",2018-11-08 11:18:08,-0.6486,0.719,0.0,0.281
+116,Fox News,"Breaking News: At least 12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/u6sVxdzHq5",2018-11-08 11:13:32,-0.6486,0.765,0.0,0.235
+117,Fox News,.@CarleyShimkus is live with the ‘Fox News Update’ on Facebook Watch: https://t.co/hNrB8xzepH https://t.co/cQ9uxkjUIK,2018-11-08 11:12:14,0.0,1.0,0.0,0.0
+118,Fox News,"Authorities deliver an update on the shooting in Thousand Oaks, California. (Courtesy: KABC) https://t.co/BtGxxIfNx5",2018-11-08 10:53:33,0.0,1.0,0.0,0.0
+119,Fox News,Pastor Dimas Salaberrios on California shooting: “My immediate thoughts go out to the families. Because what’s happ… https://t.co/iowf5VOL2l,2018-11-08 10:36:12,0.0,1.0,0.0,0.0
+120,CNN,"The Bank of England has blocked Nicolas Maduro's officials from withdrawing $1.2 billion worth of gold, Bloomberg r… https://t.co/bgxCWX20Bk",2019-01-26 18:45:06,-0.0516,0.81,0.09,0.1
+121,CNN,"“It’s time for every other nation to pick a side,” Sec. of State Pompeo said at the United Nations, urging more cou… https://t.co/7ASH4mW5n2",2019-01-26 18:30:00,0.4215,0.882,0.118,0.0
+122,CNN,A Commerce Dept. employee says she had to borrow money to pay her mortgage during the shutdown and is unsure about… https://t.co/44XDwmV3O1,2019-01-26 18:15:00,-0.34,0.848,0.0,0.152
+123,CNN,"At least 9 people have died and more than 300 people are missing after a dam burst at a Brazilian iron mine, causin… https://t.co/N4LECURYp4",2019-01-26 18:00:09,-0.7003,0.766,0.0,0.234
+124,CNN,Maryland Gov. Larry Hogan's name has come up repeatedly — and unprompted — in discussions with Republican National… https://t.co/hvMcjQsDhe,2019-01-26 17:45:03,0.0,1.0,0.0,0.0
+125,CNN,"Officials have started removing hundreds of crocodiles from the site of the world's largest statue in India, prompt… https://t.co/pQN7HbhQG7",2019-01-26 17:30:11,0.0,1.0,0.0,0.0
+126,CNN,"“I think it was the right call,” Rep. Adam Kinzinger says after President Trump signed a three-week stopgap bill th… https://t.co/9Ijo2JVGTA",2019-01-26 17:15:00,0.0,1.0,0.0,0.0
+127,CNN,"First lady Melania Trump gets ""substantial damages"" and an apology for story in British magazine that included seve… https://t.co/MKFHZX0XJ3",2019-01-26 17:00:09,-0.2263,0.731,0.137,0.132
+128,CNN,Trump tries to bounce back after horrible day damages presidency https://t.co/MiifpoPPef | Analysis by Stephen Coll… https://t.co/k8alZHztM6,2019-01-26 16:45:04,-0.7506,0.686,0.0,0.314
+129,CNN,Former Nigerian minister Ngozi Okonjo-Iweala has given the strongest indication yet that she will throw her hat in… https://t.co/VL3KR3jDCy,2019-01-26 16:30:04,0.4404,0.861,0.139,0.0
+130,CNN,How Brexit paralyzed British politics https://t.co/qZZf7vZNgg Analysis by @LukeMcGee https://t.co/Kn9mVQQWDe,2019-01-26 16:15:07,0.0,1.0,0.0,0.0
+131,CNN,Nigerian election thrown into chaos as President Muhammadu Buhari suspends country's top judge… https://t.co/l0EJCTROj5,2019-01-26 16:00:15,-0.4404,0.686,0.103,0.211
+132,CNN,"Courts say anti-abortion ""heartbeat bills"" are unconstitutional. So why do they keep coming? https://t.co/K8Kshg1QvQ https://t.co/wjOfo48QPC",2019-01-26 15:45:08,0.0,1.0,0.0,0.0
+133,CNN,The numbers show Trump lost the shutdown and Pelosi won https://t.co/K6bAdB4G03 | Analysis by Harry Enten https://t.co/b17P4r6LTe,2019-01-26 15:30:08,0.34,0.7,0.185,0.115
+134,CNN,Three men have been sentenced to at least 25 years in federal prison for attempting to blow up an apartment complex… https://t.co/5zQxtEKsNt,2019-01-26 15:22:54,-0.5267,0.82,0.0,0.18
+135,CNN,Are you clearing your house in hopes of throwing out everything that doesn’t “spark joy” after watching Marie Kondo… https://t.co/LnoU044qGu,2019-01-26 15:21:22,0.4215,0.872,0.128,0.0
+136,CNN,"Should young Americans be required to perform public service?
+
+Janine Davidson of the National Commission on Milita… https://t.co/E5DpXMHtLT",2019-01-26 15:07:17,0.0,1.0,0.0,0.0
+137,CNN,"Federal response was faster and ""more generous"" in terms of funding and staffing for Hurricane Irma in Florida and… https://t.co/Tqq2yxiVR5",2019-01-26 15:01:08,0.5563,0.841,0.159,0.0
+138,CNN,This millionaire who conducted focus groups in battleground states says the most important thing to voters is their… https://t.co/MlhoSOOOkq,2019-01-26 14:50:27,-0.1548,0.78,0.096,0.124
+139,CNN,"Microsoft CEO Satya Nadella says self-regulation is needed for new technology to avoid ""even more heavy-handed regu… https://t.co/d5zWBAmpOd",2019-01-26 14:31:00,-0.296,0.885,0.0,0.115
+140,BBC News (World),Taliban talks: US envoy says significant progress made in Qatar https://t.co/D6g1Xxz47b,2019-01-26 18:14:59,0.5574,0.662,0.338,0.0
+141,BBC News (World),Nigerian chief justice ban raises international concerns https://t.co/SHiDqShQYd,2019-01-26 16:57:27,-0.0516,0.462,0.262,0.277
+142,BBC News (World),Trump insists Mexico wall will be built despite deal to end shutdown https://t.co/DFz3GQAZ1H,2019-01-26 16:53:05,0.0,1.0,0.0,0.0
+143,BBC News (World),Venezuela crisis: Maduro given ultimatum by European leaders https://t.co/FxESFaA1kg,2019-01-26 15:06:40,-0.6249,0.661,0.0,0.339
+144,BBC News (World),US shutdown: National press see a defeat for Donald Trump https://t.co/eNXRFjX4p1,2019-01-26 13:43:46,-0.4588,0.75,0.0,0.25
+145,BBC News (World),"'Little hope' of finding missing after Brazil dam collapse
+
+[Tap to expand]
+
+https://t.co/psUuP8EsmP https://t.co/BbYhYNHmJw",2019-01-26 13:04:08,-0.4201,0.579,0.137,0.284
+146,BBC News (World),"RT @BBCNews: Following illegal migrants through four European ports
+
+[Tap to expand]
+
+https://t.co/ozr4zC6K3i https://t.co/ilcmCO335E",2019-01-26 12:37:08,-0.5574,0.783,0.0,0.217
+147,BBC News (World),"Kim Porter, mother to three of Diddy's children, died from pneumonia https://t.co/dVnT5QfXmw",2019-01-26 11:47:15,-0.5574,0.753,0.0,0.247
+148,BBC News (World),"RT @BBCSport: CHAMPION!
+
+Naomi Osaka wins the Australian Open women's singles title for the first time with a dramatic victory over Petra K…",2019-01-26 11:14:02,0.8633,0.699,0.301,0.0
+149,BBC News (World),"RT @BBCSport: What a comeback!
+
+Petra Kvitova saves three Championship points and takes us to a deciding set against Naomi Osaka.
+
+Live 📻📱💻…",2019-01-26 10:35:11,0.4926,0.862,0.138,0.0
+150,BBC News (World),"RT @bbctennis: Petra Kvitova has dropped a set for the first time in this tournament.
+
+Can she recover and take us to a decider?
+
+🇯🇵 Osaka…",2019-01-26 09:44:47,0.0,1.0,0.0,0.0
+151,BBC News (World),"RT @bbctennis: Petra Kvitova holds off a threat of a break from Naomi Osaka.
+
+It's tie-break time in the first set.
+
+🇯🇵 Osaka 6-6 🇨🇿 Kvitov…",2019-01-26 09:35:45,-0.5267,0.871,0.0,0.129
+152,BBC News (World),"Hundreds missing after Brazil dam collapse
+
+https://t.co/EGQRS7ViUB https://t.co/TiRDGjzVZs",2019-01-26 09:27:53,-0.6597,0.526,0.0,0.474
+153,BBC News (World),Australia Day celebrated amid 'Invasion Day' protests https://t.co/PmpPDeL8fa,2019-01-26 09:17:39,0.4215,0.517,0.319,0.164
+154,BBC News (World),"RT @BBCSport: We are under way in Melbourne!
+
+Follow live radio and online coverage of Naomi Osaka v Petra Kvitova in the women's singles f…",2019-01-26 08:49:12,0.0,1.0,0.0,0.0
+155,BBC News (World),Oscar-winning French composer Michel Legrand dies aged 86 https://t.co/iYzi3SB7hu,2019-01-26 08:07:20,-0.3818,0.755,0.0,0.245
+156,BBC News (World),Spain Totalán search: Body of missing boy found https://t.co/dc2BUj7aXO,2019-01-26 02:27:45,-0.296,0.784,0.0,0.216
+157,BBC News (World),India relocates crocodiles at world's tallest statue in Gujarat https://t.co/LpbJ81EKet,2019-01-26 02:07:17,0.0,1.0,0.0,0.0
+158,BBC News (World),Vienna rescues forgotten women artists censored by the Nazis https://t.co/NAL4DQddWF,2019-01-26 00:05:44,-0.0516,0.547,0.18,0.273
+159,BBC News (World),BBC journalist Ging Ginanjar: A giant of Indonesia's battle for press freedom https://t.co/3bGvZ7MHNG,2019-01-26 00:03:27,0.3818,0.595,0.25,0.155
+160,CBS News,This man was in a prison's maximum-security wing when he was 21. Now he's the mayor of his hometown.… https://t.co/77jmL3q2Um,2019-01-26 18:30:15,0.0,1.0,0.0,0.0
+161,CBS News,"The restaurant at the center of the ""Pizzagate"" conspiracy theory survived an attempted arson… https://t.co/gtdy8VSuDX",2019-01-26 18:09:37,-0.0258,0.66,0.168,0.173
+162,CBS News,"Roger Stone is a self-proclaimed ""dirty trickster"" of Republican politics. After Mueller indictment, have the trick… https://t.co/ZV6KxzuMHE",2019-01-26 17:49:34,-0.5859,0.745,0.0,0.255
+163,CBS News,Chef José Andrés pledges to keep helping federal workers even after shutdown ends https://t.co/HTELpHLz87 https://t.co/DgwjlkZsBM,2019-01-26 17:29:59,0.296,0.864,0.136,0.0
+164,CBS News,Sen. Kamala Harris campaigns in South Carolina at event hosted by her sorority https://t.co/bJMjUiqeGH,2019-01-26 17:09:58,0.0,1.0,0.0,0.0
+165,CBS News,Secretary of State Mike Pompeo says United Nations Security Council should support Venezuela's opposition leader Ju… https://t.co/hsNT9AJ51r,2019-01-26 16:29:48,0.7845,0.639,0.361,0.0
+166,CBS News,Former Starbucks CEO Howard Schultz tells @60Minutes Donald Trump is not qualified to be president and both parties… https://t.co/UYhDEk30js,2019-01-26 16:09:34,0.0,1.0,0.0,0.0
+167,CBS News,Researchers say Amazon's face detection technology Rekognition shows gender and racial bias https://t.co/LOhCsyWt3Y https://t.co/iTUgEFanRX,2019-01-26 15:49:31,-0.1027,0.903,0.0,0.097
+168,CBS News,Hold onto your Canada Goose coats — they're becoming a target for armed robberies https://t.co/S16MDP5osX https://t.co/nimI9RNydZ,2019-01-26 15:29:31,0.0,1.0,0.0,0.0
+169,CBS News,"""Leaving Neverland,"" a four-hour documentary about child molestation accusations against Michael Jackson, draws sta… https://t.co/nnS5zIlq3i",2019-01-26 15:09:40,-0.6369,0.698,0.0,0.302
+170,CBS News,One Texas student was killed and another injured after a school bus collided with a train https://t.co/rMUbnGPN3q https://t.co/obFNMWvv0P,2019-01-26 14:50:00,-0.802,0.66,0.0,0.34
+171,CBS News,Naomi Osaka beats Petra Kvitova to clinch Australian Open title https://t.co/61BupvwRmF https://t.co/Qqtgfzfqt7,2019-01-26 14:30:00,0.0,1.0,0.0,0.0
+172,CBS News,"RT @CBSThisMorning: With 10 days leading up to the Super Bowl, many are hoping to ""paint the town red."" But Atlanta's been doing some paint…",2019-01-26 14:23:16,0.5187,0.841,0.159,0.0
+173,CBS News,"Extinction of lemurs would have huge implications for humans, scientists say https://t.co/Sveqw2kcqt https://t.co/pZBUOFrm7t",2019-01-26 14:03:03,0.3182,0.839,0.161,0.0
+174,CBS News,Who is Roger Stone? https://t.co/MKjI9Ms2si https://t.co/zQicmcttsl,2019-01-26 13:48:04,0.0,1.0,0.0,0.0
+175,CBS News,Rapper Nelly asks court to dismiss lawsuit alleging sexual assault https://t.co/DuW46lsTpN https://t.co/om7VFrcyKS,2019-01-26 13:33:03,-0.6908,0.637,0.0,0.363
+176,CBS News,"Model and actress Kim Porter died from pneumonia, coroner says https://t.co/6galMeRHJX https://t.co/GoGnTpNXP4",2019-01-26 13:18:03,-0.5574,0.753,0.0,0.247
+177,CBS News,Bahamiam restaurant owner defrauded by Fyre Festival will share GoFundMe donations https://t.co/cfU1otPOX8 https://t.co/muhiVjF4fY,2019-01-26 13:03:04,0.6597,0.671,0.329,0.0
+178,CBS News,"Transgender discrimination, conversion therapy banned in New York https://t.co/9PH8UeijbT https://t.co/vID7kqa2mj",2019-01-26 12:48:03,-0.4588,0.75,0.0,0.25
+179,CBS News,"Bitcoin no longer worth the mining cost, JPMorgan says https://t.co/wvMj6Y9qxq https://t.co/Are5GJB7Pv",2019-01-26 12:33:03,-0.0772,0.687,0.145,0.168
+180,The New York Times,"Enjoy art and nature in Japan's Setouchi Islands, No. 7 on our list of 52 places to go in 2019, and explore further… https://t.co/yLuHRybXBi",2019-01-26 18:45:01,0.25,0.795,0.121,0.083
+181,The New York Times,The end of the U.S. government shutdown signals the start of 3 weeks of intense negotiations over border security i… https://t.co/7wkI3h8j2u,2019-01-26 18:30:07,0.4019,0.829,0.171,0.0
+182,The New York Times,RT @karenyourish: Just published an analysis of every known contact Trump and his associates had with Russia or WikiLeaks. We found more th…,2019-01-26 18:15:05,0.0,1.0,0.0,0.0
+183,The New York Times,"In Opinion
+
+Julian Sanchez writes, ""There were also several indications that the probe may not be as near its concl… https://t.co/886UwFjOOC",2019-01-26 18:00:11,0.0,1.0,0.0,0.0
+184,The New York Times,An Al Qaeda-linked rebel group has taken control of Syria's last rebel-held pocket. That means Russia and the Syria… https://t.co/ZESqqan1nE,2019-01-26 17:45:04,-0.1531,0.922,0.0,0.078
+185,The New York Times,"""The doorbell rang. I opened the door to the three sheriff’s deputies. I managed to speak first. 'It was him, wasn’… https://t.co/pUeP1XMKDU",2019-01-26 17:30:06,0.0,1.0,0.0,0.0
+186,The New York Times,RT @nytimesarts: Giuseppe Verdi wanted to “burn these papers.” But instead a trunk of long-hidden documents will offer a glimpse into the c…,2019-01-26 17:16:04,0.0,1.0,0.0,0.0
+187,The New York Times,"A baked potato isn’t really about the potato. It’s about the toppings: plush sour cream, butter, cheese, salty baco… https://t.co/Mn6NFRuHSO",2019-01-26 17:00:05,0.0,1.0,0.0,0.0
+188,The New York Times,Rescue workers at the site of dam collapse in Brazil are searching for hundreds of missing under the mud and sludge… https://t.co/zMD3bqcRJa,2019-01-26 16:45:05,-0.2732,0.686,0.119,0.195
+189,The New York Times,"“It was like a nightmare,"" said the owner of a tea stall in Karachi, Pakistan, whose business was bulldozed. ""I saw… https://t.co/xwtasyEBCB",2019-01-26 16:31:44,0.1779,0.807,0.112,0.081
+190,The New York Times,"Although over for now, the U.S. government shutdown inflicted pain that ran deep: Missed payments and debt for fede… https://t.co/GjbgulOeta",2019-01-26 16:24:42,-0.7906,0.68,0.0,0.32
+191,The New York Times,"RT @NYTSports: “I just dropped off the face of the earth for 45 days,” the figure skater Gracie Gold said of her mental health treatment. “…",2019-01-26 16:17:48,0.0,1.0,0.0,0.0
+192,The New York Times,"Bruised by the shutdown fight, President Trump faces a cloudier path to re-election, and advisers fear a challenge… https://t.co/Lp2lwVxtKR",2019-01-26 16:00:15,-0.7003,0.721,0.0,0.279
+193,The New York Times,"A New York City public housing authority employee redecorated her kitchen with cabinets, a refrigerator and a sink… https://t.co/khzu0iYJsT",2019-01-26 15:45:07,0.0772,0.92,0.08,0.0
+194,The New York Times,"The Texas secretary of state has questioned the citizenship of 95,000 registered voters. The findings of an 11-mont… https://t.co/5t2DdQOqdm",2019-01-26 15:30:10,-0.1027,0.928,0.0,0.072
+195,The New York Times,"Your weekend playlist is here, with the songs @nytmusic critics think you need to hear
+https://t.co/TdXQwcd5xz",2019-01-26 15:15:05,-0.296,0.872,0.0,0.128
+196,The New York Times,"""There was an absolute and ironclad caste system in the film capital in the 1940s and 1950s,"" director and actor Id… https://t.co/Psy1vz1uHQ",2019-01-26 15:00:16,0.0,1.0,0.0,0.0
+197,The New York Times,"Donald Trump and his associates had more than 100 contacts with Russians and WikiLeaks before the inauguration, a T… https://t.co/5d6LqHOGyQ",2019-01-26 14:56:16,0.0,1.0,0.0,0.0
+198,The New York Times,A father-and-son hunting pair fatally shot a mother black bear and her cubs in their den on a remote island in Alas… https://t.co/YbTHLCsUBE,2019-01-26 14:45:05,-0.6369,0.819,0.0,0.181
+199,The New York Times,Two music fans begin married life after a wedding in a cemetery. The atmosphere was anything but funereal. https://t.co/7HHn8feiC0,2019-01-26 14:30:06,0.0,1.0,0.0,0.0
+200,Fox News,"Las Vegas shooting survivors were inside Thousand Oaks bar, friends say https://t.co/nW9TLTON9n",2018-11-08 10:30:40,0.4767,0.78,0.22,0.0
+201,Fox News,"UPDATE: At least 11 wounded in shooting at California bar, gunman dead, police say https://t.co/awRowfbeRy",2018-11-08 10:24:08,-0.6486,0.765,0.0,0.235
+202,Fox News,Authorities confirm gunman is dead @FoxFriendsFirst https://t.co/PvITYr54AX https://t.co/a2EIH1EWmA,2018-11-08 10:16:43,-0.6486,0.619,0.0,0.381
+203,Fox News,Ventura County Sheriff’s Office Captain Garo Kuredjian: “I don’t know what the condition of any of the victims are… https://t.co/96mT27WHZv,2018-11-08 10:10:46,-0.3182,0.892,0.0,0.108
+204,Fox News,"At least 11 shot, including sheriff’s deputy — Jonathan Hunt has the latest from the scene of the California shooti… https://t.co/sLzLyMsrn5",2018-11-08 10:03:44,0.0,1.0,0.0,0.0
+205,Fox News,Witnesses describe chaotic scene during Thousand Oaks shooting https://t.co/qE8RqKGjz3,2018-11-08 09:54:50,-0.4939,0.714,0.0,0.286
+206,Fox News,UPDATE: At least 11 people hurt in California shooting @FoxFriendsFirst https://t.co/PvITYr54AX https://t.co/RGWIkaxF4f,2018-11-08 09:46:19,-0.5267,0.764,0.0,0.236
+207,Fox News,"Daniel Hoffman on California shooting: “This still an active shooter scene, and the focus is on dealing with that a… https://t.co/PiwHhe5HuX",2018-11-08 09:40:57,0.4019,0.881,0.119,0.0
+208,Fox News,"Former Las Vegas Metro Police Lt. Randy Sutton: “Those who respond to this show incredible bravery, because they ar… https://t.co/idcJJuVRMP",2018-11-08 09:31:36,0.4939,0.856,0.144,0.0
+209,Fox News,"Authorities deliver a briefing on a shooting in Thousand Oaks, California. (Courtesy: KCBS) https://t.co/5VGZz3rDIL",2018-11-08 09:25:02,0.0,1.0,0.0,0.0
+210,Fox News,"Mass shooting at California bar, @HeatherChilders &amp; @JackieibanezFNC have the latest @FoxFriendsFirst… https://t.co/8c8H5LUFCu",2018-11-08 09:18:00,0.0,1.0,0.0,0.0
+211,Fox News,Tesla names Robyn Denholm as Chairman to replace Elon Musk (via @FoxBusiness) https://t.co/SKjBXxUdOD,2018-11-08 09:10:00,0.0,1.0,0.0,0.0
+212,Fox News,@marcthiessen: “The president today made very clear that he wants to cut deals with the Democrats. And quite frankl… https://t.co/3eA2dn4vQh,2018-11-08 09:01:00,0.2006,0.783,0.126,0.091
+213,Fox News,".@TuckerCarlson: ""While everyone else obsessed over dossiers and FISA warrants, Sessions worried about the mission… https://t.co/LSvnOqZMsq",2018-11-08 09:00:00,-0.4404,0.782,0.0,0.218
+214,Fox News,"Wife's dying wish was for him to clean up bloody crime scene, suspect claims: reports https://t.co/7Wxd39jDEB",2018-11-08 08:51:00,-0.4939,0.44,0.216,0.344
+215,Fox News,DEVELOPING: Massive police response after reports of shooting at California nightclub https://t.co/awRowfsPJ6,2018-11-08 08:41:00,0.0,1.0,0.0,0.0
+216,Fox News,".@senatemajldr Mitch McConnell said Wednesday that Democrats and Republicans will have to address health care ""on a… https://t.co/XxmktKMZ7F",2018-11-08 08:31:00,0.4939,0.842,0.158,0.0
+217,Fox News,"Joseph diGenova on who could replace AG Sessions: ""@ChrisChristie would have the full confidence of @POTUS, which i… https://t.co/lt485btkXG",2018-11-08 08:21:00,0.5106,0.845,0.155,0.0
+218,Fox News,Dem @GavinNewsom's wild victory party in LA features controversial rapper @common https://t.co/V9SSpxOUH7,2018-11-08 08:06:00,0.2263,0.69,0.186,0.124
+219,Fox News,".@jasoninthehouse: “Attorney General @jeffsessions is a patriot. He was a good Republican, and I applaud him for hi… https://t.co/MRia8l8dOM",2018-11-08 08:01:00,0.7096,0.704,0.296,0.0
+220,CNN,“What's so surprising to me about this whole thing is that Roger was so un-careful about his threats and his allege… https://t.co/0FajAsPFx6,2019-01-26 14:30:24,-0.1045,0.794,0.095,0.111
+221,CNN,Hawaiian Airlines plane diverted after a flight attendant dies on board https://t.co/6kTBM6T4qN,2019-01-26 14:27:03,0.0,1.0,0.0,0.0
+222,CNN,"Commentary: 
+
+“I suspect that yesterday was the worst and best day of Roger Stone’s life. He is where he has always… https://t.co/5oBbi9U0D6",2019-01-26 14:12:46,-0.2732,0.644,0.142,0.214
+223,CNN,Naomi Osaka wins second straight Grand Slam https://t.co/e2y8uNgMpy https://t.co/wqCMJU0zbS,2019-01-26 14:01:05,0.7184,0.309,0.531,0.16
+224,CNN,This race isn't for the faint of heart https://t.co/ihomb5p6RG https://t.co/LTOVAoyCTW,2019-01-26 13:31:00,0.0,1.0,0.0,0.0
+225,CNN,St. Louis police officer charged with involuntary manslaughter in fatal shooting of fellow officer… https://t.co/Sp6bpddV9x,2019-01-26 13:17:49,-0.6486,0.71,0.0,0.29
+226,CNN,"Next year, the US will export more energy than it imports. That hasn't happened since 1953. https://t.co/E5Iumiamz9",2019-01-26 13:01:07,0.3384,0.87,0.13,0.0
+227,CNN,"""We are all one world, and that is the important thing that we have to recognize."" Conservation advocate Sir David… https://t.co/2ipSfLj8Fk",2019-01-26 12:31:00,0.2023,0.917,0.083,0.0
+228,CNN,"Van talks to Sherrod Brown about whether he will run in 2020, plus Meghan McCain on how she is keeping up her fathe… https://t.co/V2ihaz5PRH",2019-01-26 12:29:02,0.0,1.0,0.0,0.0
+229,CNN,A married gay man is running for president. That's a big deal. | Analysis by CNN's Kyle Blaine… https://t.co/naovqvn2kg,2019-01-26 12:01:02,0.0,1.0,0.0,0.0
+230,CNN,Ice skaters recorded this frozen lake in Norway 'singing.' The unusual frequencies are often a result of changing t… https://t.co/ac3C0QmPXU,2019-01-26 11:31:00,0.0,1.0,0.0,0.0
+231,CNN,More babies are dying before their first birthdays in Venezuela as the country is mired in a severe economic and po… https://t.co/PHVJCmoQ6Z,2019-01-26 11:01:03,-0.3818,0.885,0.0,0.115
+232,CNN,"Cruise lines like Caribbean, Norwegian and Carnival are going all out and adding rides, slides and even a roller co… https://t.co/naqtwvs8ic",2019-01-26 10:31:00,0.3612,0.884,0.116,0.0
+233,CNN,An apartment on New York's Central Park sold for $238 million. That's the highest price ever paid for a home in the… https://t.co/6y8FCu4JdD,2019-01-26 10:01:05,0.0,1.0,0.0,0.0
+234,CNN,"The Igloo Hotel in Davos, Switzerland, is a snow-packed hideaway that offers warm beds, bubbling fondue and a very… https://t.co/990muLCWWu",2019-01-26 09:31:00,0.2263,0.899,0.101,0.0
+235,CNN,A simple blood test could predict if a patient will develop Alzheimer's disease up to 16 years before symptoms begi… https://t.co/Cpkjww6PYB,2019-01-26 09:01:05,0.0,1.0,0.0,0.0
+236,CNN,This CEO wants to make grocery shopping effortless https://t.co/Ng5MqYFu0V https://t.co/x6LICpx7mw,2019-01-26 08:31:00,0.0,1.0,0.0,0.0
+237,CNN,"Earth didn't exactly start out ready to support life, but scientists now have a better idea of how the essential el… https://t.co/jHUQb2BNxi",2019-01-26 08:16:04,0.7543,0.707,0.293,0.0
+238,CNN,"Former Secretary of State John Kerry said if he could speak to President Trump directly, he would tell him to ""resi… https://t.co/98ftIDP3l5",2019-01-26 08:01:05,0.0,1.0,0.0,0.0
+239,CNN,"Bahrain is building an ""underwater theme park,"" and it's sinking a Boeing 747 to do it https://t.co/9g5As3U6OP https://t.co/HNMCVz3XFv",2019-01-26 07:46:05,0.0,1.0,0.0,0.0
+240,BBC News (World),In pictures: Deadly dam collapse in Brumadinho https://t.co/edqpbybisn,2019-01-25 22:42:49,-0.4939,0.686,0.0,0.314
+241,BBC News (World),Donald Trump announces a temporary end to the longest government shutdown in US history — but continues to defend h… https://t.co/uVJrXVOtFm,2019-01-25 21:55:01,0.0,1.0,0.0,0.0
+242,BBC News (World),Venezuela crisis: Guaidó rejects talks with Maduro https://t.co/WO9RxWs9CE,2019-01-25 20:46:06,-0.8074,0.451,0.0,0.549
+243,BBC News (World),"Two arrested in Canada in terrorism probe, one minor charged https://t.co/I9JZtRIzqJ",2019-01-25 20:16:28,-0.8591,0.457,0.0,0.543
+244,BBC News (World),"RT @BBCBreaking: ""Walls should not be controversial... walls work"" - President Donald Trump lays out the case for his border wall as he ann…",2019-01-25 19:48:43,0.0,1.0,0.0,0.0
+245,BBC News (World),Trump announces deal to lift shutdown https://t.co/TNycNJGXT0,2019-01-25 19:37:24,0.0,1.0,0.0,0.0
+246,BBC News (World),"RT @BBCBreaking: ""We have reached a deal to end the shutdown"" - President Donald Trump announces details of deal reached to temporarily end…",2019-01-25 19:33:57,0.2023,0.872,0.128,0.0
+247,BBC News (World),RT @BBCBreaking: US partial shutdown to be lifted temporarily as President Trump announces deal to fund government while talks go on https:…,2019-01-25 19:20:43,0.0,1.0,0.0,0.0
+248,BBC News (World),Brazil mining dam collapse leaves '200 missing' https://t.co/J9Ya6Ky9ja,2019-01-25 19:20:41,-0.6597,0.526,0.0,0.474
+249,BBC News (World),Zimbabwe's Mugabe 'lost $1m in stolen briefcase' https://t.co/Iif3J7SrWi,2019-01-25 18:17:21,-0.6705,0.522,0.0,0.478
+250,BBC News (World),RT @BBCSport: Lionel Messi has joined calls to continue the search for missing Cardiff City striker Emiliano Sala and pilot David Ibbotson.…,2019-01-25 18:07:05,-0.296,0.905,0.0,0.095
+251,BBC News (World),"""I will plead not guilty to these charges""
+
+Roger Stone leaves court in Florida after he was charged with seven cou… https://t.co/2GBPG0Nb2M",2019-01-25 17:39:28,-0.1451,0.753,0.092,0.155
+252,BBC News (World),Bungaree: Indigenous man who helped Flinders explore Australia https://t.co/J5nkYn87oX,2019-01-25 17:21:40,0.0,1.0,0.0,0.0
+253,BBC News (World),Four dead in air collision on France-Italy border https://t.co/94ymVON8hh,2019-01-25 16:57:39,-0.7783,0.507,0.0,0.493
+254,BBC News (World),Mexico woman accused of killing newborn child after miscarriage freed https://t.co/OyHq1SmzyW,2019-01-25 16:43:05,-0.5994,0.462,0.156,0.382
+255,BBC News (World),Kenyan teacher killed 'after confiscating phone' https://t.co/dONS4UgjJy,2019-01-25 16:37:41,-0.6705,0.571,0.0,0.429
+256,BBC News (World),"Afghanistan's Ghani says 45,000 security personnel killed since 2014 https://t.co/IqnQpXGkZy",2019-01-25 16:31:08,-0.4767,0.537,0.161,0.302
+257,BBC News (World),"RT @BBCNews: Safia Mohamed was amazed to discover that one of the last men hanged in Wales was a Somali like her
+#Longread 
+https://t.co/Gk…",2019-01-25 16:24:38,0.6908,0.787,0.213,0.0
+258,BBC News (World),"RT @BBCWorld: The film recreates the events surrounding the notorious murder of two-year-old James Bulger
+
+https://t.co/wkpqLFrWxG",2019-01-25 16:20:16,-0.8225,0.648,0.0,0.352
+259,BBC News (World),"The film recreates the events surrounding the notorious murder of two-year-old James Bulger
+
+https://t.co/wkpqLFrWxG",2019-01-25 16:18:18,-0.8225,0.612,0.0,0.388
+260,CBS News,"Salmonella outbreak linked to pet hedgehogs, CDC warns https://t.co/5dr4M4DqdT https://t.co/eFrwYeAC3h",2019-01-26 12:18:04,-0.1027,0.865,0.0,0.135
+261,CBS News,9 tax deductions individuals can no longer claim for their 2018 taxes https://t.co/gJzcNWzWq1 https://t.co/pWNhVM0obt,2019-01-26 12:03:03,-0.296,0.845,0.0,0.155
+262,CBS News,"Ketchup ""caviar"" and other Valentine's Day's promotions https://t.co/Es4z6kVYK8 https://t.co/9ZtDDICrXh",2019-01-26 11:48:03,0.0,1.0,0.0,0.0
+263,CBS News,"A Twitter troll attacked Patton Oswalt, then the star changed the man's life https://t.co/6zd09NOgQ3 https://t.co/Se1vwbMEvm",2019-01-26 11:33:04,-0.4588,0.812,0.0,0.188
+264,CBS News,"Head injuries, fractures common in e-scooter crashes, study finds https://t.co/CkNXlUlIwa https://t.co/UIpiuiMvfA",2019-01-26 11:18:04,0.0,1.0,0.0,0.0
+265,CBS News,"""Top Chef"" star Fatima Ali has died at 29 https://t.co/womEpG9LAO https://t.co/3lb03w7Jya",2019-01-26 11:03:05,-0.4215,0.625,0.125,0.25
+266,CBS News,More than half of IRS workers recalled to process tax returns stayed home https://t.co/WJKyMT6mDy https://t.co/FA1qL5iZUe,2019-01-26 10:48:03,0.0,1.0,0.0,0.0
+267,CBS News,Couple wins millions after discovering lottery loophole https://t.co/V6fiu8fmGN https://t.co/PgHdNkCFjI,2019-01-26 10:33:04,0.5719,0.684,0.316,0.0
+268,CBS News,"Facebook reportedly plans to merge messaging in Instagram, Messenger and WhatsApp https://t.co/XAp8hLsij9 https://t.co/lOm5AyKUYI",2019-01-26 10:18:04,0.0,1.0,0.0,0.0
+269,CBS News,"Anne Hathaway confirms ""Princess Diaries 3"" is in the works, and Julie Andrews will be in it https://t.co/rKx4eYM8eH https://t.co/jG0fERUg8i",2019-01-26 10:03:04,0.0,1.0,0.0,0.0
+270,CBS News,"Australians suffer as heatwave knocks out power, fuels fires https://t.co/pQGrm5nZgp https://t.co/UhUoxG4tym",2019-01-26 09:48:03,-0.5423,0.741,0.0,0.259
+271,CBS News,Alligators freeze in North Carolina swamp with noses above ice https://t.co/b9g0Ma6sbG https://t.co/fvLT19H5zS,2019-01-26 09:33:05,0.0516,0.902,0.098,0.0
+272,CBS News,U.K. lawmakers' Brexit standoff appears to irk Queen Elizabeth https://t.co/DQTtNY1QJ6 https://t.co/heTPGIrHSu,2019-01-26 09:18:03,0.0,1.0,0.0,0.0
+273,CBS News,"""We've entered a new era"" of public concern about climate change, survey finds https://t.co/UjSm0RPp1x https://t.co/20YhBwnlh7",2019-01-26 09:03:03,0.0,1.0,0.0,0.0
+274,CBS News,Families open up their hearts – and their homes – to serve veterans https://t.co/atUwDVniNz https://t.co/abTWg4ZSw1,2019-01-26 08:48:04,0.0,1.0,0.0,0.0
+275,CBS News,"Meek Mill, Jay-Z, and other high-profile supporters launch initiative for criminal justice reform… https://t.co/HI36YubTMe",2019-01-26 08:33:03,0.4404,0.531,0.304,0.164
+276,CBS News,"""It's hard to look in the face of that sick kid"": Superintendent charged with fraud speaks out… https://t.co/sMRpPxOTml",2019-01-26 08:18:02,-0.8519,0.576,0.0,0.424
+277,CBS News,Who is Roger Stone? https://t.co/MKjI9Ms2si https://t.co/qUEwWFjSsW,2019-01-26 08:03:05,0.0,1.0,0.0,0.0
+278,CBS News,California family says hacked Nest camera warned of North Korea missile attack https://t.co/KDxRaPJnhT https://t.co/EwOlRsoHiR,2019-01-26 07:48:03,-0.7845,0.582,0.0,0.418
+279,CBS News,More blood pressure meds recalled over cancer-causing ingredient https://t.co/KJ8lsSaqE5 https://t.co/88vkU9MN6y,2019-01-26 07:33:04,-0.3566,0.784,0.0,0.216
+280,The New York Times,"In a new study, Amazon Rekognition made no errors in recognizing the gender of lighter-skinned men. But it misclass… https://t.co/gGl5juSFfz",2019-01-26 14:15:10,-0.2382,0.775,0.065,0.16
+281,The New York Times,Cooking is simpler and faster when you have already have the ingredients. Here’s how to stock a modern pantry. https://t.co/28UWrZPFQK,2019-01-26 14:00:07,0.0,1.0,0.0,0.0
+282,The New York Times,"Modern Love: ""My new husband isn’t the same person I married, but he has his beauty. I admire so much about him."" https://t.co/Y1LYPa5E2N",2019-01-26 13:42:05,0.9178,0.601,0.399,0.0
+283,The New York Times,Domestic manufacturers like Whirlpool had hoped that President Trump's tariffs on washing machines would help them.… https://t.co/JU6X18c9jo,2019-01-26 13:22:02,0.7783,0.642,0.358,0.0
+284,The New York Times,A photo showed her standing in front of kitchen cabinets that looked like the ones used in New York City's public h… https://t.co/TpmNdu8qpn,2019-01-26 13:00:06,0.3612,0.894,0.106,0.0
+285,The New York Times,"The Tatra Mountains in Slovakia, No. 19 on our list of 52 places to go in 2019, have emerged as an under-the-radar… https://t.co/ZmxALbkBNy",2019-01-26 12:42:02,-0.296,0.909,0.0,0.091
+286,The New York Times,"RT @anniekarni: His willingness to toe the line between playfulness and villainy was not something he ever outgrew.
+ https://t.co/lO9BR4ArLU",2019-01-26 12:22:02,-0.0772,0.669,0.18,0.151
+287,The New York Times,9 new books recommended by critics and editors from The New York Times https://t.co/RAJomd0nR4,2019-01-26 12:00:08,-0.1027,0.733,0.12,0.147
+288,The New York Times,"RT @natashanyt: What do companies do when M.I.T. researchers find their facial recognition systems have race and gender biases?
+a) agree an…",2019-01-26 11:30:06,0.3612,0.894,0.106,0.0
+289,The New York Times,Geneticists have begun using old bones to make sweeping claims about the distant past. But their revisions to the h… https://t.co/GyfuwflJa8,2019-01-26 11:03:46,0.0,1.0,0.0,0.0
+290,The New York Times,"In 2012, a photographer visited a medical clinic that was filled with relics from a past when Afghans, wounded in w… https://t.co/dllu79xuXu",2019-01-26 10:46:47,0.0,1.0,0.0,0.0
+291,The New York Times,"RT @nytopinion: According to the Mueller indictment, Roger Stone is a witness tamperer who once threatened to kidnap a therapy dog. That’s…",2019-01-26 10:30:05,-0.4588,0.864,0.0,0.136
+292,The New York Times,"How to sell, donate or recycle your stuff https://t.co/UNMgJkzL6I",2019-01-26 10:11:05,0.0,1.0,0.0,0.0
+293,The New York Times,"A mushroom species was found to sense predators and send warning signals to other parts of its body, but how it doe… https://t.co/gHMZKEdOem",2019-01-26 09:54:13,-0.1779,0.925,0.0,0.075
+294,The New York Times,"Sniff, accept and toss. Then you can reorganize. https://t.co/sZ08vsjCyz",2019-01-26 09:37:46,0.3818,0.755,0.245,0.0
+295,The New York Times,A history of the magazine every science fiction lover should know https://t.co/UnhI6fBqZZ,2019-01-26 09:21:03,0.5859,0.725,0.275,0.0
+296,The New York Times,"RT @NYTimesAtWar: ""When the doorbell rang on New Year’s Eve four years ago, I knew something was wrong. It was 9 p.m. I was alone. I opened…",2019-01-26 09:04:34,-0.6249,0.805,0.0,0.195
+297,The New York Times,"The New York Times review of ""Serenity,"" starring Matthew McConaughey and Anne Hathaway https://t.co/m2YwpzYDAi",2019-01-26 08:47:55,0.0,1.0,0.0,0.0
+298,The New York Times,"RT @nytimesworld: Outside the imposing Taj Mahal, tourists are facing a menace: gangs of hungry, rosy-bottomed monkeys. They bite. They scr…",2019-01-26 08:30:09,-0.5574,0.796,0.0,0.204
+299,The New York Times,Step inside one of New York City’s last old-school arcades https://t.co/TUsIEeMS3s,2019-01-26 08:04:43,0.0,1.0,0.0,0.0
+300,Fox News,"Devotees lit earthen lamps in Ayodhya, India as part of Diwali celebrations, also known as a festival of lights, on… https://t.co/uWGZnrkvqD",2018-11-08 07:51:00,0.5719,0.793,0.207,0.0
+301,Fox News,".@TGowdySC on Jeff Sessions resigning: ""It was going to happen...He's been a proverbial dead man walking for severa… https://t.co/ojKL4KMFTz",2018-11-08 07:41:00,-0.7351,0.721,0.0,0.279
+302,Fox News,Mob chants threats outside @TuckerCarlson’s DC home https://t.co/IJE8m5gjWi,2018-11-08 07:31:00,-0.4215,0.714,0.0,0.286
+303,Fox News,".@TuckerCarlson: ""Supporting marriage and children is the best, maybe the only way, for Republicans or any of us to… https://t.co/fqPwC8XTaY",2018-11-08 07:21:00,0.7964,0.717,0.283,0.0
+304,Fox News,.@KennedyNation: Dems in 2020 better without Nancy https://t.co/54vTCiffG4,2018-11-08 07:16:00,0.4404,0.707,0.293,0.0
+305,Fox News,Battleground-state Dems who opposed Kavanaugh all defeated https://t.co/guqMSVjd74,2018-11-08 07:11:00,-0.4767,0.693,0.0,0.307
+306,Fox News,".@Jim_Jordan on his run for House GOP leader: “We have to match [@POTUS’s] intensity, that’s what I want to do. If… https://t.co/2VOW1ykCsI",2018-11-08 07:01:00,0.0772,0.939,0.061,0.0
+307,Fox News,.@senatemajldr: Dem Votes Against Kavanaugh Were a 'Godsend' to GOP in Midterms https://t.co/ietr8sP4EQ,2018-11-08 06:51:00,0.0,1.0,0.0,0.0
+308,Fox News,.@marcthiessen: “There’s lots of things that Democrats could take a stand on that they find inherently unacceptable… https://t.co/c7UFDzFd60,2018-11-08 06:41:00,0.0,1.0,0.0,0.0
+309,Fox News,".@DarrellIssa on the Mueller probe: ""Two years is a long time to look for a crime you can't prove.""… https://t.co/plX9kxpSXy",2018-11-08 06:36:00,-0.5423,0.829,0.0,0.171
+310,Fox News,"Second teen dies of gunshot wound after Oklahoma mom's rampage, authorities say https://t.co/VUQxsa3mq3",2018-11-08 06:31:00,0.0,1.0,0.0,0.0
+311,Fox News,.@marcthiessen: “The president today made very clear that he wants to cut deals with the Democrats. And quite frank… https://t.co/MGVdJQVfUt,2018-11-08 06:21:00,0.2006,0.783,0.126,0.091
+312,Fox News,"Florida Highway Patrol cruiser hits 142 mph in pursuit, catches on fire https://t.co/GqWKI45AAm",2018-11-08 06:11:00,-0.34,0.833,0.0,0.167
+313,Fox News,Democratic strategist @LeslieMarshall: “What we need is not a wall — and not a wall that we can’t afford — but comp… https://t.co/TzRWVJQeVv,2018-11-08 06:01:00,0.0,1.0,0.0,0.0
+314,Fox News,"Sex offender gets 22 years after missing boy, 14, found in his room at halfway house, authorities say https://t.co/sDd0VQzob4",2018-11-08 05:51:00,-0.5719,0.783,0.0,0.217
+315,Fox News,".@POTUS touts Senate gains, @LelandVittert breaks down the results @foxnewsnight https://t.co/VMzif8sgHH",2018-11-08 05:41:00,0.3182,0.72,0.192,0.088
+316,Fox News,Former Kavanaugh colleague among group being considered to replace Sessions as AG: reports https://t.co/HxAlDZx2Mg,2018-11-08 05:31:00,0.0,1.0,0.0,0.0
+317,Fox News,"Too close to call: Meticulous vote count transpiring in Arizona Senate race, @aacuna1 reports @foxnewsnight https://t.co/DV6EX4Ogxe",2018-11-08 05:26:00,0.0,1.0,0.0,0.0
+318,Fox News,"Former SEAL Mocked by 'SNL' Wins TX House Seat, Calls for More Vets in Congress https://t.co/T0PAhopphH… https://t.co/qhS5BVOE2U",2018-11-08 05:21:01,0.6841,0.603,0.298,0.099
+319,Fox News,South Carolina voter told to remove 'Trump' shirt in order to vote: report https://t.co/xWY2EdSpDF,2018-11-08 05:11:00,0.0,1.0,0.0,0.0
+320,CNN,Boeing is making an autonomous air vehicle. That’s right: no pilot https://t.co/l6WHCsp7tX https://t.co/IXZW5ptR3p,2019-01-26 07:31:00,-0.296,0.845,0.0,0.155
+321,CNN,"When the Apollo 14 astronauts returned samples from the moon's surface, they probably didn't realize that they were… https://t.co/VzsKbMs3b6",2019-01-26 07:16:03,0.0,1.0,0.0,0.0
+322,CNN,"Cold air doesn't cause a cold.
+Wet hair won't make you sick. 
+https://t.co/aLzAMuJHli",2019-01-26 07:01:06,0.4023,0.803,0.197,0.0
+323,CNN,Autonomous vehicles aren’t just futuristic technology. They could someday help to reduce crashes and human error on… https://t.co/Lx5BwitjKE,2019-01-26 06:51:02,0.0,0.748,0.126,0.126
+324,CNN,"Oral health might be more important than we thought. A gum infection, that can cause tooth loss, was found to be a… https://t.co/vRC43GNIbQ",2019-01-26 06:46:06,-0.0534,0.82,0.086,0.094
+325,CNN,"In 2021, you could stay at the world's first space hotel -- provided you have a spare $9.5 million:… https://t.co/FDzaeAGePX",2019-01-26 06:31:00,0.0,1.0,0.0,0.0
+326,CNN,Drug-resistant bacteria are expected to kill 10 million people a year by 2050 -- that's one person every three seco… https://t.co/mWNpxH9olN,2019-01-26 06:16:05,-0.6908,0.802,0.0,0.198
+327,CNN,"Climate change is causing Greenland's massive ice sheets to melt much faster than previously thought, a new study h… https://t.co/iAl75N9nP3",2019-01-26 06:01:04,0.0,1.0,0.0,0.0
+328,CNN,Some major Japanese convenience store chains will stop selling pornography ahead of the Rugby World Cup and the Oly… https://t.co/KLvqKk2jfA,2019-01-26 05:46:07,-0.296,0.896,0.0,0.104
+329,CNN,This tiny house on wheels is inspired by the architecture of Frank Lloyd Wright https://t.co/ThShQErtce https://t.co/Q0ZQccPduU,2019-01-26 05:41:02,0.4939,0.824,0.176,0.0
+330,CNN,A rare sight known as a super blood wolf moon was one of the first skywatching events of 2019… https://t.co/KbEWwVmlad,2019-01-26 05:31:00,0.5994,0.813,0.187,0.0
+331,CNN,"Some of the world's largest purveyors of plastic packaging, such as Procter &amp; Gamble, Nestlé and Pepsi, are working… https://t.co/2q99mFxQQl",2019-01-26 05:16:06,0.0,1.0,0.0,0.0
+332,CNN,The Nixon Foundation distances itself from Roger Stone after the Trump confidante's indictment by special counsel R… https://t.co/t5LY4XPjFH,2019-01-26 05:03:05,0.4019,0.863,0.137,0.0
+333,CNN,"The world's billionaires are growing $2.5 billion richer every day, and the 26 richest are as wealthy as the 3.8 bi… https://t.co/YHZDFJAM4s",2019-01-26 05:01:01,0.875,0.621,0.379,0.0
+334,CNN,"RT @CNNTonight: ""To me, this just makes a much more straightforward case that you had a campaign -- and we don't know how high it goes. But…",2019-01-26 04:56:44,0.0,1.0,0.0,0.0
+335,CNN,"The lobbying group for the pharmaceutical industry spent about $27.5 million on lobbying activities in 2018, federa… https://t.co/ogc3PL2Ysh",2019-01-26 04:51:05,-0.1531,0.86,0.0,0.14
+336,CNN,US Secretary of State Mike Pompeo has hired a veteran foreign policy hand and fierce Trump critic to direct all asp… https://t.co/cAumrP05k1,2019-01-26 04:46:02,0.2732,0.782,0.132,0.086
+337,CNN,"RT @CNNTonight: President Trump is a ""shadowy operator,"" says Rep. Eric Swalwell, reacting to the Roger Stone indictment. ""We at least have…",2019-01-26 04:41:11,0.0,1.0,0.0,0.0
+338,CNN,"RT @CNNTonight: Rep. Eric Swalwell tells CNN's @DonLemon that the Roger Stone indictment show ""strong evidence now of the intense interest…",2019-01-26 04:41:04,0.5574,0.805,0.195,0.0
+339,CNN,"Australia isn't that close for most people, but it's so worth the flight to get there. When you finally arrive, her… https://t.co/TNLc7Z9po6",2019-01-26 04:36:08,0.5001,0.866,0.134,0.0
+340,BBC News (World),RT @BBCBreaking: Flights halted into New York's LaGuardia Airport due to air traffic control staff shortages as US shutdown continues https…,2019-01-25 15:16:34,-0.1531,0.926,0.0,0.074
+341,BBC News (World),"RT @BBCNews: Scientists say 2019 will see a much bigger CO2 rise than 2018
+
+https://t.co/flZZJxEX8x",2019-01-25 14:59:05,0.0,1.0,0.0,0.0
+342,BBC News (World),"Facebook reportedly plans to integrate its messaging services on Instagram, WhatsApp and Facebook Messenger
+
+https://t.co/8FsrK26jj3",2019-01-25 14:52:31,0.0,1.0,0.0,0.0
+343,BBC News (World),Afrikaans scrapped at South Africa's University of Pretoria https://t.co/HG9merp0TX,2019-01-25 14:41:50,0.0,1.0,0.0,0.0
+344,BBC News (World),"RT @BBCNews: Critically endangered angel sharks spotted off the Welsh coast 😲
+
+[Tap to expand] https://t.co/1kD1ihpkDV https://t.co/rEz8uUn…",2019-01-25 14:27:13,0.3818,0.867,0.133,0.0
+345,BBC News (World),"RT @BBCScotlandNews: Archive footage of haggis, the food much-loved by Scotland's Bard #BurnsNight2019 https://t.co/1wBSW6b8gm",2019-01-25 14:15:08,0.0,1.0,0.0,0.0
+346,BBC News (World),"Trump ally and political strategist, but who is Roger Stone? https://t.co/M38B4iYR2o",2019-01-25 13:42:38,0.0,1.0,0.0,0.0
+347,BBC News (World),Greece vote settles 27-year Macedonia row https://t.co/7OgDbA2Yv7,2019-01-25 13:29:52,0.0,1.0,0.0,0.0
+348,BBC News (World),"India launches what it says is world's lightest satellite ever to be put into orbit 🚀🛰️
+
+[Tap to expand]… https://t.co/4hqjSmdCe1",2019-01-25 12:52:13,0.0,1.0,0.0,0.0
+349,BBC News (World),"Exploring the production of homemade guns in West Africa
+
+[Tap to expand]
+
+https://t.co/JKzepq3Efh https://t.co/Obzda8vAf2",2019-01-25 12:32:48,0.0,1.0,0.0,0.0
+350,BBC News (World),RT @BBCNews: Can stars ever shake off their famous TV characters? https://t.co/0jIT0VjeWi,2019-01-25 12:32:43,-0.1779,0.866,0.0,0.134
+351,BBC News (World),Minnesota mosque attack: 'White Rabbits' militiamen plead guilty https://t.co/oDAoaL9td6,2019-01-25 12:29:11,-0.7096,0.543,0.0,0.457
+352,BBC News (World),"RT @BBCPolitics: ""Brexit is bad. Immigrants make Britain great. They also cooked your food""
+
+The London restaurant causing a stir with anti…",2019-01-25 12:20:19,0.1531,0.714,0.154,0.132
+353,BBC News (World),"This week the long-running crisis in Venezuela got worse
+
+What's going on and who's in charge? 
+
+[Tap to expand]… https://t.co/IGSm3sGQN0",2019-01-25 12:05:46,-0.802,0.714,0.0,0.286
+354,BBC News (World),Brexit: 'Immense challenges' for Irish economy in a no-deal https://t.co/F9Bv8xlDyH,2019-01-25 11:49:12,0.0772,0.86,0.14,0.0
+355,BBC News (World),Children's climate rallies gain momentum in Europe https://t.co/swVBi9LPw5,2019-01-25 11:28:15,0.5267,0.673,0.327,0.0
+356,BBC News (World),"RT @BBCBreaking: Trump ally Roger Stone charged with seven counts in Mueller probe, including obstruction and witness-tampering https://t.c…",2019-01-25 11:27:04,-0.2023,0.904,0.0,0.096
+357,BBC News (World),RT @BBCNorthAmerica: Colin Powell thanks US veteran for help which 'touched his soul' https://t.co/xUQjcKUGqZ,2019-01-25 11:20:08,0.6808,0.682,0.318,0.0
+358,BBC News (World),RT @BBCNews: Oscars 2019: How controversial James Bulger film Detainment was made https://t.co/y2ekORYqnW,2019-01-25 11:19:48,-0.2023,0.87,0.0,0.13
+359,BBC News (World),US shutdown: 'Out of touch' Wilbur Ross mocked online https://t.co/7arR6xHhyQ,2019-01-25 11:06:28,-0.3182,0.796,0.0,0.204
+360,CBS News,Justice Department to ask Supreme Court to review 2020 Census question on citizenship https://t.co/Ik5YYMBL3i https://t.co/L1MPJJUUX9,2019-01-26 07:18:04,0.7906,0.65,0.35,0.0
+361,CBS News,"7 bodies recovered, 200 missing after Brazil dam collapse floods community in sludge https://t.co/COF4s5kUDn https://t.co/0vvAV6Oe7B",2019-01-26 07:03:03,-0.6597,0.69,0.0,0.31
+362,CBS News,"Family behind OxyContin maker engineered opioid crisis, Massachusetts AG says https://t.co/oZzFmwWee4 https://t.co/m36iiERuZq",2019-01-26 06:48:04,-0.6249,0.728,0.0,0.272
+363,CBS News,What are the economic and security implications of Trump's Venezuela policy? https://t.co/nvwKaszfAs https://t.co/ByRuuTqCDg,2019-01-26 06:33:03,0.34,0.833,0.167,0.0
+364,CBS News,Border Patrol agents have discovered at least 230 cross-border tunnels since 1990 https://t.co/LKgkdbAHqX https://t.co/qLinBCQqPu,2019-01-26 06:18:03,0.0,1.0,0.0,0.0
+365,CBS News,"L.A. mayor: ""I did what mayors to"" to end teachers' strike https://t.co/6PT41ORRhF https://t.co/v1Wy1wxdvP",2019-01-26 06:03:04,-0.128,0.889,0.0,0.111
+366,CBS News,"""Friendly fraud"": Documents show Facebook used games to make money off of kids https://t.co/1w6UxAYer2 https://t.co/S2kgTiVgSE",2019-01-26 05:48:04,0.4939,0.814,0.186,0.0
+367,CBS News,"Sackler family, known for ties to prestigious institutions, stays quiet on opioid crisis accusations… https://t.co/LgYtNeBtAx",2019-01-26 05:33:03,-0.6249,0.773,0.0,0.227
+368,CBS News,What to know about the 2019 State of the Union address https://t.co/DJgWvve1Q1 https://t.co/65luiCoDmf,2019-01-26 05:18:03,0.0,1.0,0.0,0.0
+369,CBS News,"Roger Stone leaves court to chants of ""lock him up"" https://t.co/sPgH5DECHX https://t.co/HjMNE51wO8",2019-01-26 04:48:04,0.0,1.0,0.0,0.0
+370,CBS News,Stranger holds umbrella for deputy saluting fallen officer in the rain https://t.co/WTaQL4jQzV https://t.co/Ldoa43bdR4,2019-01-26 04:33:03,-0.3612,0.828,0.0,0.172
+371,CBS News,"“If they shut down the government again, I can tell you, we will reopen again,” said Chef José Andrés, whose organi… https://t.co/GxYv5rwFeQ",2019-01-26 04:30:36,0.0,1.0,0.0,0.0
+372,CBS News,"Boy, 3, found alive after massive search in North Carolina https://t.co/DcMT6uX5W3 https://t.co/ut17ZvttPz",2019-01-26 04:18:04,0.3818,0.809,0.191,0.0
+373,CBS News,"Trump signs bill to reopen government for 3 weeks, ending longest-ever shutdown https://t.co/MDun8JTVfO https://t.co/ZLZ5mTHVQc",2019-01-26 04:17:41,0.0,1.0,0.0,0.0
+374,CBS News,Video shows FBI's predawn raid on Trump associate Roger Stone's house https://t.co/pSdlglfgZc https://t.co/ej9BqvsMwC,2019-01-26 04:03:05,0.0,1.0,0.0,0.0
+375,CBS News,"“For people like me who are single and you live paycheck to paycheck, this always affects me in this way”: DOJ empl… https://t.co/l0idkEsQmt",2019-01-26 03:55:49,0.3612,0.898,0.102,0.0
+376,CBS News,RT @CBSThisMorning: We have a sad update to someone we featured in our #NoteToSelf series: 29-year-old Chef Fatima Ali has passed away afte…,2019-01-26 03:34:33,-0.4767,0.871,0.0,0.129
+377,CBS News,The country’s busiest border crossing will allow 20 people to claim asylum a day. They used to take up to 100… https://t.co/ohCoD3HHgz,2019-01-26 03:19:48,0.2263,0.913,0.087,0.0
+378,CBS News,An IRS employee named Zillah says she had trouble paying her bills during the government shutdown. Hear her story i… https://t.co/lDKHZuria7,2019-01-26 03:14:25,-0.4019,0.881,0.0,0.119
+379,CBS News,"Transgender discrimination, conversion therapy banned in New York https://t.co/5YGTRXanMb https://t.co/n7kVOIznG2",2019-01-26 02:59:53,-0.4588,0.75,0.0,0.25
+380,The New York Times,"Traffic isn't just annoying. It can be bad for your health, research shows. https://t.co/LZ6cJeodTJ",2019-01-26 07:47:50,-0.3054,0.676,0.127,0.197
+381,The New York Times,"RT @nytopinion: African-Americans who embraced automobile travel to escape filthy, “colored-only” train cars learned quickly that the geogr…",2019-01-26 07:30:11,0.1779,0.909,0.091,0.0
+382,The New York Times,"RT @kchangnyt: 15 years on Mars, but the Opportunity rover may be dead, not just sleeping. https://t.co/1MCHVgHlt9",2019-01-26 07:01:13,-0.5023,0.609,0.15,0.241
+383,The New York Times,Marseille is attracting young creative types from all over France and beyond. It's No. 39 on our list of 52 places… https://t.co/1ygFDmBMcL,2019-01-26 06:46:36,0.5859,0.699,0.221,0.081
+384,The New York Times,"RT @NYTmag: Marie Kondo recalls that the national library of Japan held a large collection of tidying, decluttering and organizing books, b…",2019-01-26 06:30:05,0.0,1.0,0.0,0.0
+385,The New York Times,There's no eggs or cream in this mousse recipe— just chocolate https://t.co/ZWXgfqUdcH,2019-01-26 06:11:13,-0.296,0.833,0.0,0.167
+386,The New York Times,Here are the highest-profile snubs and surprises from the Oscar nominations https://t.co/Xxt7zVnSZu,2019-01-26 05:54:08,-0.296,0.667,0.127,0.207
+387,The New York Times,"Capturing a lunar impact on video is rare enough, but spotting a collision during a total lunar eclipse may be a fi… https://t.co/bQwXoeAEum",2019-01-26 05:37:37,-0.5023,0.847,0.0,0.153
+388,The New York Times,RT @kitastew: Teamed up with ⁦@dgelles⁩ to tell the story of The country’s most expensive home sale ever. Dozens of tenants were evicted ye…,2019-01-26 05:22:00,0.0,1.0,0.0,0.0
+389,The New York Times,"Evacuations in Tasmania, where more than 50 wildfires are burning: “We took some clothes, our photo albums and that… https://t.co/bGgiXfQPsa",2019-01-26 05:00:15,0.0,1.0,0.0,0.0
+390,The New York Times,Many of the movies nominated for the 2019 Oscars are already streaming online. Here's where to find them. https://t.co/sZmRAmdpHf,2019-01-26 04:45:05,0.0,1.0,0.0,0.0
+391,The New York Times,"A San Francisco software executive has donated more than $62,000 to try to ensure that the cache of firearms that w… https://t.co/xbUiAkaBqT",2019-01-26 04:30:07,0.3818,0.885,0.115,0.0
+392,The New York Times,"RT @nytopinion: Donald Trump tormented public servants and citizens and wounded the country, holding the government hostage for 35 days. He…",2019-01-26 04:15:01,0.0,1.0,0.0,0.0
+393,The New York Times,"A Birmingham civil rights group said that it had reinstated an award for Angela Davis, the activist and scholar, af… https://t.co/3adnYWmrxB",2019-01-26 04:00:05,0.5423,0.844,0.156,0.0
+394,The New York Times,"Noise pollution from ship traffic and offshore drilling tests can harm different species of marine life, drowning o… https://t.co/FbcFwEBULg",2019-01-26 03:45:05,-0.5423,0.837,0.0,0.163
+395,The New York Times,"The sheer volume of the material — 175 gigabytes on Russia's war in Ukraine, the dealings of oligarchs and other is… https://t.co/VH9BCSGbYR",2019-01-26 03:30:06,-0.5994,0.837,0.0,0.163
+396,The New York Times,"RT @puiwingtam: A big tech shift for WhatsApp, Instagram &amp; Facebook Messenger that says a lot about Zuckerberg’s  plans. @MikeIsaac
+ https:…",2019-01-26 03:15:03,0.0,1.0,0.0,0.0
+397,The New York Times,"News Analysis: President Trump surrendered with nothing concrete to show for the battle, taking essentially the sam… https://t.co/BO8tkc43H2",2019-01-26 03:00:02,-0.3818,0.867,0.0,0.133
+398,The New York Times,A photo showed her standing in front of kitchen cabinets that looked like the ones used in New York City's public h… https://t.co/xnqwRspalp,2019-01-26 02:45:08,0.3612,0.894,0.106,0.0
+399,The New York Times,"RT @peterbakernyt: Trump signs continuing resolution, reopening government after the longest shutdown in history.",2019-01-26 02:36:02,0.0,1.0,0.0,0.0
+400,Fox News,.@POTUS: “Hopefully we can all work together next year to continue delivering for the American people.”… https://t.co/FdLczQZN4g,2018-11-08 05:01:00,0.0,1.0,0.0,0.0
+401,Fox News,Former US Attorney Harry Litman on Whitaker &amp; Mueller probe: “I think most people think it’s unlikely that he would… https://t.co/6W1eHbZ7zZ,2018-11-08 04:55:00,0.0,1.0,0.0,0.0
+402,Fox News,Pete Davidson's 'SNL' castmate Kenan Thompson talks Dan Crenshaw joke: 'They are figuring out a way to right that w… https://t.co/MlIJF907FK,2018-11-08 04:50:00,0.296,0.896,0.104,0.0
+403,Fox News,".@jasoninthehouse: “Attorney General @jeffsessions is a patriot. He was a good Republican, and I applaud him for hi… https://t.co/lqmOqmHcJZ",2018-11-08 04:45:00,0.7096,0.704,0.296,0.0
+404,Fox News,"Tom Dupree on Acting Attorney General Matthew Whitaker: “Calls for him to recuse from Russia, I think, are meritles… https://t.co/74TWeQngjg",2018-11-08 04:35:00,0.0,1.0,0.0,0.0
+405,Fox News,"Cabinet shakeup expected after @jeffsessions pushed out, @edhenry reports @foxnewsnight https://t.co/6UTwyCpZRV https://t.co/MY7kH6s4T7",2018-11-08 04:25:00,-0.1531,0.873,0.0,0.127
+406,Fox News,"New reactions to Sessions resignation, Catherine Herridge has the story @foxnewsnight https://t.co/6UTwyCHBgv https://t.co/FaiATyMSgC",2018-11-08 04:14:15,-0.296,0.845,0.0,0.155
+407,Fox News,MLB star @Bharper3407 rejects $300M offer from Nationals: Reports (via @FoxBusiness) https://t.co/Bgfoyi7fNH,2018-11-08 04:05:00,-0.4939,0.775,0.0,0.225
+408,Fox News,Doug Schoen: Trump shouldn’t have fired Jeff Sessions – here’s why https://t.co/0ITTpZyqyx,2018-11-08 03:55:00,-0.5574,0.735,0.0,0.265
+409,Fox News,"Joseph diGenova on who could replace AG Sessions: ""@ChrisChristie would have the full confidence of @POTUS, which i… https://t.co/3eoxyIurd3",2018-11-08 03:52:26,0.5106,0.845,0.155,0.0
+410,Fox News,‘Brady Bunch’ cast to take part in TV home’s renovation: report https://t.co/rebtV4qkql,2018-11-08 03:48:00,0.0,1.0,0.0,0.0
+411,Fox News,".@TuckerCarlson: Dems' Election Message Was All 'Trump', No Substance https://t.co/CscvHQkfAX",2018-11-08 03:42:00,-0.296,0.804,0.0,0.196
+412,Fox News,"11-year-old in North Carolina charged with putting needles in Halloween candy, police say https://t.co/Dm3F07wpIt",2018-11-08 03:35:00,-0.2023,0.878,0.0,0.122
+413,Fox News,Rhino rescue? Scientists may hold key to saving northern white rhinoceros from extinction  https://t.co/VUifTtCbTk,2018-11-08 03:29:00,0.5106,0.798,0.202,0.0
+414,Fox News,"RT @FoxBusiness: Rick Scott: ""Socialism will not happen in our nation, and it's not going to happen under my watch."" https://t.co/CLNOuNnGNo",2018-11-08 03:23:02,0.0,1.0,0.0,0.0
+415,Fox News,"Democrat Colin Allred, who unseated Rep. Pete Sessions, won't say if he'll back Pelosi https://t.co/mNox8bKgiA",2018-11-08 03:23:00,0.0,1.0,0.0,0.0
+416,Fox News,Surveillance video shows Michigan woman reportedly reversing car into store https://t.co/tJr2cUsZ8a,2018-11-08 03:16:01,0.0,1.0,0.0,0.0
+417,Fox News,".@senatemajldr Mitch McConnell said Wednesday that Democrats and Republicans will have to address health care ""on a… https://t.co/xF54bEhvOA",2018-11-08 03:11:00,0.4939,0.842,0.158,0.0
+418,Fox News,Woman finds her diamond before proposal and 'ring shames' herself https://t.co/uoLHUxHeBD,2018-11-08 03:04:00,-0.0772,0.638,0.17,0.191
+419,Fox News,McDonald's customers’ $5M lawsuit over unwanted Quarter Pounder cheese dismissed by judge https://t.co/yBEvL4cAFK,2018-11-08 03:01:47,-0.4215,0.743,0.0,0.257
+420,CNN,"Walmart's more than 8,000 truck drivers will be getting a roughly $1,500-a-year raise, the retailer announced this… https://t.co/iDxUt2yfWt",2019-01-26 04:36:04,0.0,1.0,0.0,0.0
+421,CNN,The International Monetary Fund is warning that the world economy is slowing — and that it will get worse if countr… https://t.co/ILnDvSegSK,2019-01-26 04:31:06,-0.6705,0.776,0.0,0.224
+422,CNN,The Pentagon is looking into whether Amazon improperly hired a former Defense Department worker who was involved wi… https://t.co/prVY6RbTTG,2019-01-26 04:26:06,0.296,0.833,0.167,0.0
+423,CNN,Food shortages could hit the UK within days of a no-deal Brexit https://t.co/LfQIFbxt3b https://t.co/yaMhzs4tkb,2019-01-26 04:21:02,-0.1531,0.882,0.0,0.118
+424,CNN,"While the okapi is virtually unheard of in the West, its image pervades life in the Democratic Republic of Congo. I… https://t.co/n5BVJX53Qe",2019-01-26 04:16:04,0.0,1.0,0.0,0.0
+425,CNN,"The city of New York has agreed to a $3.3 million settlement with the family of Kalief Browder, who spent three yea… https://t.co/TLeQrNjXJy",2019-01-26 04:11:02,0.2732,0.909,0.091,0.0
+426,CNN,"Facebook plans to integrate its messaging platforms, WhatsApp, Instagram and Messenger, according to a report from… https://t.co/tUdkloEqxp",2019-01-26 04:06:05,0.0,1.0,0.0,0.0
+427,CNN,"A Catholic diocese in Kentucky said  it was ""bullied and pressured"" into a making a premature statement about a vir… https://t.co/UQRm0Spvsu",2019-01-26 04:02:06,-0.7184,0.714,0.0,0.286
+428,CNN,"Climate change will affect the ratio of male-to-female newborns, scientists say https://t.co/PVbSJUkNWj https://t.co/Mds2K5giux",2019-01-26 04:01:05,0.0,1.0,0.0,0.0
+429,CNN,"Climate change: The more we know, the worse it seems | By Mark Lynas for @CNNOpinion https://t.co/TZvXdjiY2C https://t.co/PyOdlanMB0",2019-01-26 03:56:06,-0.4767,0.838,0.0,0.162
+430,CNN,"A growing number of people are working out of the office. But come performance evaluation season, that could be cos… https://t.co/j8CTOmenD7",2019-01-26 03:51:06,0.128,0.878,0.122,0.0
+431,CNN,"RT @CNNTonight: CNN's @DonLemon: ""This President shut down the federal government, leaving 800,000 workers without pay and creating chaos a…",2019-01-26 03:42:44,-0.6476,0.712,0.054,0.234
+432,CNN,What's really going on in Venezuela | By Fabiana Sofia Perera for @CNNOpinion https://t.co/YLaTfDZc62 https://t.co/n80eydKzpN,2019-01-26 03:41:02,0.0,1.0,0.0,0.0
+433,CNN,"YouTube is making changes to its recommendation algorithm, which serves up new videos for users to watch, in an eff… https://t.co/BVyEtmsTty",2019-01-26 03:41:02,0.0,1.0,0.0,0.0
+434,CNN,Drug-resistant bacteria are expected to kill 10 million people a year by 2050 -- that's one person every three seco… https://t.co/iCAJfnn7av,2019-01-26 03:36:03,-0.6908,0.802,0.0,0.198
+435,CNN,"Next year, the US will export more energy than it imports. That hasn't happened since 1953. https://t.co/iLrRyNCu8R",2019-01-26 03:32:04,0.3384,0.87,0.13,0.0
+436,CNN,"CNN's @richardquest builds an igloo to demonstrate the fractured issues facing the World Economic Forum in Davos, S… https://t.co/7bWDGs7l8g",2019-01-26 03:30:00,0.0,1.0,0.0,0.0
+437,CNN,"Oral health might be more important than we thought. A gum infection, that can cause tooth loss, was found to be a… https://t.co/CDFPd7kWPu",2019-01-26 03:26:04,-0.0534,0.82,0.086,0.094
+438,CNN,An apartment on New York's Central Park just sold for $238 million. That's the highest price ever paid for a home i… https://t.co/oB8AY10aq0,2019-01-26 03:23:23,0.0,1.0,0.0,0.0
+439,CNN,What the Roger Stone raid really means | By Paul Callan for @CNNOpinion https://t.co/QgZxFzJdzN https://t.co/OgsFXMKqAb,2019-01-26 03:23:06,0.0,1.0,0.0,0.0
+440,BBC News (World),"RT @BBCtrending: 'Dad's scar tweet' restored my self-confidence
+
+https://t.co/YKL408vrgO",2019-01-25 10:30:03,0.34,0.769,0.231,0.0
+441,BBC News (World),"RT @BBCSteveR: At Jack Shepherd’s court hearing in Tbilisi, prosecutors ask the judge to keep Shepherd in jail for 3 months pending extradi…",2019-01-25 10:24:25,0.0,1.0,0.0,0.0
+442,BBC News (World),"RT @BBCSteveR: We’re in Tbilisi, outside the police detention centre where Jack Shepherd is being held. His two Georgian defence lawyers ha…",2019-01-25 10:24:16,-0.2732,0.837,0.059,0.105
+443,BBC News (World),RT @BBCSport: There are calls from across the footballing world to continue the search for missing Cardiff City striker Emiliano Sala and p…,2019-01-25 10:00:53,-0.296,0.909,0.0,0.091
+444,BBC News (World),Australian of the Year award given to Thai cave rescuers https://t.co/O6SgbgUjnl,2019-01-25 09:57:10,0.5423,0.741,0.259,0.0
+445,BBC News (World),"Watch as this building in Indonesia is swept away by deadly flash floods 
+
+[Tap to expand] https://t.co/EpUWBXc2nT https://t.co/6zsyIS5gwB",2019-01-25 09:16:14,0.0,1.0,0.0,0.0
+446,BBC News (World),India jails honour killing suspects after Canada extradition https://t.co/47OLDDlQqw,2019-01-25 08:43:35,-0.4767,0.364,0.224,0.412
+447,BBC News (World),"Brexit: 'Significant disruption' from no deal, says chancellor https://t.co/IDmByYvlxE",2019-01-25 08:39:01,-0.4404,0.48,0.144,0.376
+448,BBC News (World),This longhouse in Indonesia was swept away by flash floods https://t.co/Jw5PozKOVI https://t.co/vriIFlMN4y,2019-01-25 08:28:01,0.0,1.0,0.0,0.0
+449,BBC News (World),"'El Chapo' trial: Drug lord tortured and murdered rivals, says witness https://t.co/tLBFyeA9bV",2019-01-25 08:05:18,-0.8402,0.556,0.0,0.444
+450,BBC News (World),Turkey court frees hunger-strike Kurdish MP Leyla Guven https://t.co/jBVYo2bLrk,2019-01-25 07:49:33,0.296,0.784,0.216,0.0
+451,BBC News (World),Assam citizenship bill: Anti-migrant protests rock northeast India https://t.co/utPHPO7eVD,2019-01-25 07:22:31,-0.2263,0.808,0.0,0.192
+452,BBC News (World),In pictures: How Australians are enduring record heat https://t.co/oRUfba4pNW,2019-01-25 06:57:47,0.0,1.0,0.0,0.0
+453,BBC News (World),Venezuela crisis: Guaidó hints at 'amnesty' for Maduro https://t.co/2b8EA5DMFX,2019-01-25 05:38:39,-0.6249,0.661,0.0,0.339
+454,BBC News (World),Australian woman bitten by snake in toilet https://t.co/Vo4uzytU1u,2019-01-25 04:57:47,0.0,1.0,0.0,0.0
+455,BBC News (World),Reality Check: Does the CFA franc keep some African countries poor? https://t.co/vNtkrBtrZV,2019-01-25 02:08:06,-0.4767,0.78,0.0,0.22
+456,BBC News (World),Africa's week in pictures: 18-24 January 2019 https://t.co/3fBmgYlPms,2019-01-25 01:50:01,0.0,1.0,0.0,0.0
+457,BBC News (World),RT @BBCNewsAsia: Bing is back! https://t.co/vwlb3MGcUH,2019-01-25 01:40:22,0.0,1.0,0.0,0.0
+458,BBC News (World),Indian election 2019: Are fears of a mass hack credible? https://t.co/cCXWTDfSZQ,2019-01-25 00:36:52,-0.4215,0.763,0.0,0.237
+459,BBC News (World),Senior Florida official quits after blackface images emerge https://t.co/AezFM3sMF6,2019-01-25 00:15:58,0.0,1.0,0.0,0.0
+460,CBS News,"""This really just threw a wrench in everything for us"": The wife of a Coast Guardsman told CBS News' @DavidBegnaud… https://t.co/gYKnDsVYU6",2019-01-26 02:44:21,0.0,1.0,0.0,0.0
+461,CBS News,"Model and actress Kim Porter died from pneumonia, coroner says https://t.co/61svkWnxJX https://t.co/H5d6Jl6pbx",2019-01-26 02:39:48,-0.5574,0.753,0.0,0.247
+462,CBS News,"“If they shut down the government again, I can tell you, we will reopen again,” says @chefjoseandres, whose organiz… https://t.co/pOqeA1IWIi",2019-01-26 02:19:48,0.0,1.0,0.0,0.0
+463,CBS News,"Bahamiam restaurant owner defrauded by Fyre Festival will share GoFundMe donations: ""People from all over the Baham… https://t.co/VMgpRSUpDS",2019-01-26 02:19:41,0.6597,0.748,0.252,0.0
+464,CBS News,Rapper Nelly asks court to dismiss lawsuit alleging sexual assault https://t.co/dnfHu6ph4L https://t.co/0w7jN4xfQZ,2019-01-26 02:19:40,-0.6908,0.637,0.0,0.363
+465,CBS News,“This really just threw a wrench in everything for us. It was incredibly  frustrating and demoralizing that he was… https://t.co/hcp0C9aOuY,2019-01-26 02:11:17,-0.4927,0.849,0.0,0.151
+466,CBS News,"“For people like me who are single and you live paycheck to paycheck, this always affects me in this way, because I… https://t.co/RUc4YMbvwd",2019-01-26 02:01:25,0.3612,0.898,0.102,0.0
+467,CBS News,Video showing officers' deadly struggle with black teen sparks outrage https://t.co/4PdsDpRxo5 https://t.co/G4xcLYe5lZ,2019-01-26 01:59:35,-0.6808,0.641,0.0,0.359
+468,CBS News,"“What I want to get across is people do not understand the emotional toll this whole process took,” IRS Employee Zi… https://t.co/Di7OAeKIA3",2019-01-26 01:46:10,-0.0372,0.874,0.06,0.066
+469,CBS News,"“It’s up to them if they want to pay me back,” says Dr. Nitin Gupta who is from the New York pediatric center that… https://t.co/RPxStdWfzg",2019-01-26 01:38:07,-0.0258,0.895,0.051,0.054
+470,CBS News,".@DavidBegnaud: “What would you say to Mr. Trump if he were to be listening to this?”
+
+IRS employee Sylvia Sosa: “I… https://t.co/bxASYtcBSC",2019-01-26 01:21:16,0.0,1.0,0.0,0.0
+471,CBS News,"“I didn't actually think we were gonna reach that place, but I think almost everyone I know is at that point”: EPA… https://t.co/v3PlpAaffg",2019-01-26 01:14:19,0.0129,0.95,0.05,0.0
+472,CBS News,HAPPENING NOW: CBS News’ @DavidBegnaud speaks with federal workers about how the government shutdown has impacted t… https://t.co/FJGVpxZUF5,2019-01-26 00:59:33,0.0,1.0,0.0,0.0
+473,CBS News,"""Top Chef"" star Fatima Ali has died at 29 after a long battle with a rare bone cancer https://t.co/gg6W0IoNaW https://t.co/TSe6mN3hbv",2019-01-26 00:39:48,-0.8689,0.53,0.068,0.402
+474,CBS News,HAPPENING NOW: Nancy Pelosi speaks after House passes funding bill. https://t.co/Cnpw0CvP6y https://t.co/k1IEgywu3N,2019-01-26 00:31:29,0.0,1.0,0.0,0.0
+475,CBS News,"St. Louis officer shot dead by her colleague while ""playing with firearms"" https://t.co/uRvEIxzPJG https://t.co/07nUs56E64",2019-01-26 00:19:30,-0.5423,0.663,0.099,0.238
+476,CBS News,"RT @CBSEveningNews: He sold ""a lot of drugs,"" and used them, too, landing in juvenile detention by age 15.
+
+But more than a decade and a ha…",2019-01-26 00:03:42,-0.1901,0.932,0.0,0.068
+477,CBS News,"RECALL ALERT: Fiat Chrysler recalls 182,000 Ram trucks over power steering failures https://t.co/h31cvgKIoU https://t.co/Cz46U2cbYU",2019-01-25 23:59:39,-0.0173,0.669,0.164,0.167
+478,CBS News,RT @CBSEveningNews: More than 2 million Venezuelans have fled to neighboring countries in the past 4 years as its economy teeters on the br…,2019-01-25 23:59:12,0.0,1.0,0.0,0.0
+479,CBS News,"RT @CBSEveningNews: Massachusetts' AG alleges several of Purdue Pharma’s owners participated in ""deadly &amp; illegal scheme"" of marketing OxyC…",2019-01-25 23:57:15,-0.5574,0.833,0.0,0.167
+480,The New York Times,"Breaking News: The shutdown is over, with President Trump signing a bill that will fund the government for 3 weeks.… https://t.co/uw7E5zx9Qf",2019-01-26 02:31:04,0.0,1.0,0.0,0.0
+481,The New York Times,RT @NYTSports: Figure skater Gracie Gold candidly unveils her struggles with depression https://t.co/qdH1AKzrXT,2019-01-26 02:15:01,-0.7351,0.64,0.0,0.36
+482,The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/DhAUxRpMsZ,2019-01-26 02:00:04,0.0,1.0,0.0,0.0
+483,The New York Times,9 new books recommended by critics and editors from The New York Times https://t.co/09ct5N0SzO,2019-01-26 01:45:06,-0.1027,0.733,0.12,0.147
+484,The New York Times,"In public, executives wring their hands over automation’s negative consequences for workers. In private, they talk… https://t.co/U1p1tnewTr",2019-01-26 01:30:09,-0.5719,0.812,0.0,0.188
+485,The New York Times,RT @ScottShaneNYT: A little payback for Russia's 2016 hacking and leaking   https://t.co/rf2H34eWWf,2019-01-26 01:15:07,0.0,1.0,0.0,0.0
+486,The New York Times,"The Half King, a NYC bar beloved by war correspondents and conflict photographers, is closing because of rising com… https://t.co/ti0GUl3cTN",2019-01-26 01:00:07,-0.4404,0.627,0.129,0.243
+487,The New York Times,RT @nytpolitics: Prominent voices in the conservative base were furious at President Trump after he agreed to reopen the government without…,2019-01-26 00:45:04,-0.0772,0.69,0.169,0.142
+488,The New York Times,Domestic manufacturers like Whirlpool had hoped that President Trump's tariffs on washing machines would help them.… https://t.co/9ylUjXnfVP,2019-01-26 00:30:09,0.7783,0.642,0.358,0.0
+489,The New York Times,"RT @maggieNYT: The Trump-Stone relationship “over the years, has proved to be fraught but durable, marked by repeated falling-outs and reco…",2019-01-26 00:15:07,0.0,1.0,0.0,0.0
+490,The New York Times,The Taliban said that one of their founding leaders would serve as the new chief negotiator in high-level talks wit… https://t.co/R0qV8NxqHo,2019-01-26 00:00:04,0.0,1.0,0.0,0.0
+491,The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/zSPu70TpxZ,2019-01-25 23:45:07,0.0,1.0,0.0,0.0
+492,The New York Times,"The building that houses the Newseum is being sold to Johns Hopkins University for $372.5 million. The museum, a ca… https://t.co/unGbfScnAK",2019-01-25 23:30:10,0.0,1.0,0.0,0.0
+493,The New York Times,"RT @JohnBranchNYT: Ironman has a great origin story/myth, about a small group of athletes testing themselves in Hawaii. The story behind th…",2019-01-25 23:15:08,0.6249,0.823,0.177,0.0
+494,The New York Times,"NASA's Mars Opportunity rover was only supposed to travel 1,000 yards and last 90 Martian days. Instead it has gone… https://t.co/PlZcRhnbEk",2019-01-25 23:00:13,0.4215,0.877,0.123,0.0
+495,The New York Times,"Power outages, bushfires, and mass animals deaths are rippling through Australia as the country faces one of its ho… https://t.co/SYYQlYD55Q",2019-01-25 22:45:04,0.0,1.0,0.0,0.0
+496,The New York Times,"In the latest blow to the Chinese telecommunication giant Huawei, the British mobile service provider Vodafone is s… https://t.co/gGEGilv0Aa",2019-01-25 22:30:03,0.0,1.0,0.0,0.0
+497,The New York Times,"The New York Times review of ""Serenity,"" starring Matthew McConaughey and Anne Hathaway https://t.co/q0xwPajQTQ",2019-01-25 22:15:02,0.0,1.0,0.0,0.0
+498,The New York Times,Chicago’s top prosecutor Kim Foxx carried her own traumas of sexual assault. Now she is asking people with abuse al… https://t.co/S8NxPjcQGM,2019-01-25 22:00:14,-0.886,0.567,0.06,0.373
+499,The New York Times,"Classic Italian wedding soup is beloved for its simplicity and satisfaction. This turkey version is lean, while mea… https://t.co/2rPPd9uiyd",2019-01-25 21:45:04,0.7351,0.733,0.267,0.0
